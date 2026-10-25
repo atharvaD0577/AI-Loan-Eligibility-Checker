@@ -1,0 +1,1201 @@
+Age,ApplicantIncome,CoapplicantIncome,CreditScore,LoanAmount,Loan_Amount_Term,InterestRate,Employment_Status,Education,Property_Area,Dependents,Loan_Status
+59,176087,75000,850,3651684,12,12.57,Salaried,Not Graduate,Urban,3+,Y
+29,122564,5000,703,5179332,24,13.48,Salaried,Graduate,Urban,1,N
+22,47014,0,717,3799014,24,10.08,Salaried,Graduate,Urban,0,N
+49,169505,10000,652,6116418,12,12.66,Salaried,Graduate,Urban,1,N
+37,119196,20000,789,2177037,180,14.62,Self-Employed,Graduate,Semiurban,2,Y
+42,117474,75000,609,107310,36,12.22,Self-Employed,Graduate,Semiurban,1,Y
+24,188376,75000,656,4987037,180,13.62,Salaried,Graduate,Urban,2,Y
+37,96572,20000,686,5434300,240,14.89,Salaried,Not Graduate,Rural,3+,N
+49,20825,75000,678,5785330,240,10.99,Unemployed,Graduate,Semiurban,0,N
+36,180796,0,644,5435741,60,14.8,Salaried,Graduate,Urban,0,N
+58,54928,0,747,505212,36,8.28,Salaried,Graduate,Urban,1,Y
+56,117894,35000,670,5208130,360,11.47,Self-Employed,Graduate,Semiurban,0,N
+52,101612,75000,550,4736891,24,10.83,Unemployed,Graduate,Semiurban,0,N
+61,200560,0,765,6966416,240,10.95,Self-Employed,Graduate,Rural,0,Y
+53,16417,50000,802,2708624,84,7.21,Salaried,Graduate,Semiurban,3+,N
+28,61629,35000,654,6490758,360,14.86,Salaried,Graduate,Semiurban,3+,N
+59,90878,35000,778,3579627,12,8.03,Self-Employed,Not Graduate,Semiurban,1,Y
+50,136479,0,655,6232056,84,7.89,Salaried,Not Graduate,Rural,1,N
+25,57177,50000,625,3266167,180,13.37,Self-Employed,Graduate,Rural,0,Y
+34,143972,35000,630,2579204,60,13.71,Self-Employed,Graduate,Rural,0,Y
+28,48735,50000,796,5094992,300,10.15,Self-Employed,Not Graduate,Semiurban,1,Y
+64,200684,75000,779,1264955,360,11.71,Self-Employed,Graduate,Urban,0,Y
+53,206643,10000,735,3944218,84,13.39,Self-Employed,Not Graduate,Rural,3+,N
+62,31397,75000,624,3150687,60,14.44,Unemployed,Not Graduate,Urban,0,N
+33,138789,5000,742,5264747,12,8.2,Salaried,Graduate,Urban,2,N
+49,179590,10000,619,150383,240,12.72,Self-Employed,Not Graduate,Urban,0,Y
+48,85286,75000,731,5888537,360,10.94,Salaried,Graduate,Rural,1,Y
+54,154166,0,655,4288108,24,14.4,Self-Employed,Graduate,Semiurban,2,N
+26,178481,0,653,5115485,360,11.23,Self-Employed,Graduate,Rural,0,Y
+44,191007,0,656,2340593,60,7.54,Salaried,Not Graduate,Urban,0,N
+50,133241,35000,555,1631098,60,14.76,Salaried,Graduate,Urban,0,N
+58,138643,0,576,87628,24,14.55,Salaried,Graduate,Urban,0,N
+50,41615,0,680,6477813,240,7.79,Salaried,Not Graduate,Rural,3+,N
+41,106385,0,620,6597164,300,8.5,Self-Employed,Graduate,Urban,0,N
+41,162678,35000,743,751260,24,7.73,Salaried,Not Graduate,Rural,1,Y
+36,177636,0,766,2979036,60,10.9,Salaried,Graduate,Semiurban,3+,Y
+28,84251,75000,589,6344059,240,7.99,Salaried,Graduate,Rural,2,N
+33,71110,50000,592,6036329,36,13.83,Salaried,Graduate,Semiurban,2,N
+27,160293,5000,679,3922652,12,9.91,Self-Employed,Not Graduate,Semiurban,0,N
+31,23527,0,816,3874678,360,12.27,Self-Employed,Not Graduate,Semiurban,0,N
+59,56386,50000,639,695338,240,11.58,Salaried,Graduate,Urban,0,N
+44,167993,0,722,2704438,360,14.56,Salaried,Graduate,Urban,2,Y
+25,152390,20000,582,1243534,36,13.78,Salaried,Graduate,Semiurban,3+,N
+40,180974,50000,630,1554279,120,13.24,Self-Employed,Graduate,Rural,0,Y
+33,173157,50000,721,1585211,120,7.12,Salaried,Graduate,Semiurban,2,Y
+50,184366,35000,673,5042015,360,10.31,Salaried,Graduate,Rural,1,N
+58,79020,20000,721,1183820,180,12.3,Salaried,Graduate,Urban,0,Y
+21,105119,0,697,1419566,120,10.51,Self-Employed,Graduate,Semiurban,3+,Y
+41,138338,0,688,1968289,300,7.85,Unemployed,Graduate,Urban,3+,N
+41,164396,10000,686,6551225,300,8.58,Salaried,Not Graduate,Rural,0,Y
+65,90388,75000,778,3499121,84,12.23,Self-Employed,Graduate,Urban,0,Y
+37,160438,20000,684,5843254,240,7.16,Salaried,Not Graduate,Urban,1,N
+28,49378,5000,744,3945566,120,11.14,Self-Employed,Not Graduate,Semiurban,3+,N
+29,72018,35000,671,3857598,24,10.16,Self-Employed,Not Graduate,Semiurban,1,N
+42,151341,0,694,1671486,24,7.84,Salaried,Graduate,Urban,0,N
+47,171232,0,618,5121239,360,13.29,Salaried,Not Graduate,Semiurban,0,N
+35,27814,5000,552,6634686,60,12.21,Salaried,Graduate,Urban,3+,N
+40,212552,35000,660,1656458,180,14.29,Self-Employed,Not Graduate,Rural,3+,N
+50,176300,50000,694,862288,84,12.71,Salaried,Not Graduate,Urban,2,N
+34,85238,0,657,3473857,300,13.8,Self-Employed,Not Graduate,Rural,1,N
+64,147630,0,723,6475923,84,13.03,Salaried,Graduate,Semiurban,0,N
+30,68876,20000,636,5220419,180,9.41,Salaried,Graduate,Urban,0,N
+63,35559,35000,597,6607962,120,11.96,Salaried,Graduate,Urban,0,N
+60,133443,75000,592,1890836,360,13.11,Self-Employed,Not Graduate,Semiurban,2,N
+64,198270,5000,730,3962684,360,12.36,Salaried,Graduate,Rural,0,Y
+56,194585,0,633,2792687,84,8.03,Self-Employed,Graduate,Semiurban,1,N
+44,28500,0,687,4644632,24,12.78,Salaried,Graduate,Rural,0,N
+48,138525,35000,595,6620482,84,14.87,Self-Employed,Graduate,Semiurban,0,N
+30,27304,20000,630,5289842,84,10.83,Salaried,Not Graduate,Semiurban,0,N
+36,213770,5000,685,3095810,240,12.58,Salaried,Graduate,Rural,2,Y
+41,97680,20000,756,855015,12,8.52,Salaried,Not Graduate,Urban,1,N
+63,203904,0,616,876421,60,9.22,Unemployed,Graduate,Rural,0,N
+56,118178,20000,591,2861799,24,13.6,Self-Employed,Graduate,Semiurban,2,N
+46,159830,10000,685,2415129,84,9.3,Unemployed,Not Graduate,Semiurban,2,Y
+47,15390,0,695,6261319,36,10.67,Salaried,Not Graduate,Rural,0,N
+40,159034,0,657,1566351,60,8.04,Salaried,Not Graduate,Rural,0,N
+39,136367,50000,764,615336,360,11.67,Salaried,Graduate,Semiurban,2,Y
+61,49035,10000,573,60559,12,11.22,Salaried,Graduate,Semiurban,0,N
+21,105332,0,631,6117049,300,11.97,Salaried,Not Graduate,Rural,0,N
+35,82938,20000,685,6732689,300,9.55,Salaried,Graduate,Semiurban,0,N
+39,18389,10000,628,1625518,12,10.92,Salaried,Not Graduate,Semiurban,0,N
+52,180511,35000,707,2914030,180,7.91,Self-Employed,Graduate,Rural,1,Y
+39,152620,0,685,1951275,240,13.99,Salaried,Graduate,Rural,0,Y
+35,95295,50000,669,3201681,300,10.55,Unemployed,Not Graduate,Rural,1,N
+24,75654,75000,841,227838,24,8.11,Salaried,Graduate,Semiurban,2,Y
+32,59436,50000,620,309221,12,11.93,Self-Employed,Graduate,Semiurban,0,Y
+25,170264,0,668,2612861,120,13.19,Salaried,Graduate,Semiurban,3+,Y
+52,25129,10000,717,2563012,24,11.2,Salaried,Graduate,Semiurban,3+,N
+40,118965,5000,636,183322,60,13.4,Self-Employed,Graduate,Semiurban,1,Y
+31,58393,75000,694,693757,12,7.95,Salaried,Graduate,Rural,1,N
+45,28068,75000,740,5415162,300,14.54,Salaried,Graduate,Urban,0,N
+43,132040,75000,699,469599,60,8.05,Self-Employed,Graduate,Urban,2,Y
+42,70015,50000,733,923272,120,10.85,Unemployed,Graduate,Rural,3+,Y
+47,204221,10000,660,3932293,36,12.7,Salaried,Graduate,Urban,1,N
+49,159658,0,668,5727650,240,11.49,Self-Employed,Graduate,Rural,0,N
+29,93436,0,810,6308465,84,10.21,Salaried,Graduate,Rural,0,N
+27,216913,0,716,3019419,240,14.12,Salaried,Not Graduate,Semiurban,1,Y
+53,176224,5000,748,1805806,300,8.02,Self-Employed,Graduate,Rural,0,Y
+64,115610,10000,642,5105611,360,12.99,Salaried,Not Graduate,Semiurban,0,N
+45,38789,35000,671,3738475,240,8.4,Salaried,Not Graduate,Urban,0,N
+41,28075,0,761,1219698,180,7.84,Salaried,Not Graduate,Urban,3+,Y
+48,183129,20000,691,2996987,24,8.33,Self-Employed,Graduate,Semiurban,2,N
+22,109765,10000,604,3453304,180,12.51,Salaried,Not Graduate,Rural,2,N
+37,204927,0,627,4436598,84,7.38,Salaried,Graduate,Rural,1,Y
+37,112201,0,681,1939966,60,11.68,Salaried,Graduate,Semiurban,2,Y
+39,116533,50000,787,6443020,84,12.26,Unemployed,Graduate,Rural,1,N
+54,183706,10000,720,5415264,120,11.64,Salaried,Not Graduate,Urban,0,N
+43,106593,20000,636,1123038,12,9.37,Salaried,Graduate,Rural,0,N
+59,120111,5000,684,1919876,24,8.38,Salaried,Not Graduate,Semiurban,1,N
+42,200887,0,690,4234048,36,10.13,Salaried,Not Graduate,Semiurban,1,N
+22,61690,0,577,5710857,240,14.85,Self-Employed,Not Graduate,Semiurban,1,N
+51,59386,50000,683,6134413,240,9.07,Self-Employed,Graduate,Rural,3+,N
+56,205353,50000,663,3873160,12,11.87,Salaried,Not Graduate,Urban,3+,N
+46,203491,10000,676,4167076,300,8.26,Unemployed,Graduate,Urban,0,Y
+63,216404,20000,627,2264130,24,7.81,Salaried,Graduate,Semiurban,0,N
+39,202840,5000,710,2327675,300,10.71,Unemployed,Not Graduate,Urban,1,Y
+56,15944,75000,659,2027506,84,11.92,Unemployed,Graduate,Rural,0,N
+21,211170,10000,635,507634,240,9.28,Salaried,Graduate,Rural,1,N
+22,44511,20000,806,4411287,84,14.36,Salaried,Graduate,Rural,0,N
+56,197355,10000,661,3800529,240,14.36,Salaried,Graduate,Semiurban,0,Y
+60,155541,10000,597,2790366,360,7.71,Unemployed,Not Graduate,Rural,2,N
+44,121353,75000,765,3645531,12,13.51,Self-Employed,Graduate,Semiurban,1,N
+54,106450,10000,777,4175626,180,8.21,Salaried,Graduate,Semiurban,1,Y
+35,153808,35000,623,2776572,300,9.98,Self-Employed,Graduate,Semiurban,1,Y
+53,147732,5000,657,3507568,84,12.81,Salaried,Not Graduate,Semiurban,0,N
+43,122863,0,674,2420361,36,10.17,Self-Employed,Graduate,Rural,3+,N
+34,28956,0,659,6641090,360,12.94,Self-Employed,Graduate,Semiurban,0,N
+25,74763,5000,595,607481,24,11.8,Salaried,Graduate,Rural,1,N
+28,48929,20000,615,1881908,360,14.08,Salaried,Graduate,Rural,0,N
+61,218054,0,824,2480015,36,7.9,Self-Employed,Not Graduate,Semiurban,3+,Y
+40,187061,75000,646,5925036,120,14.37,Unemployed,Graduate,Semiurban,3+,N
+65,17194,5000,651,3944721,36,13.58,Self-Employed,Graduate,Urban,0,N
+36,141800,75000,735,502577,36,12.41,Self-Employed,Not Graduate,Rural,0,Y
+23,64318,50000,654,6693162,12,13.06,Salaried,Not Graduate,Rural,3+,N
+32,117296,0,641,2449489,84,12.16,Salaried,Graduate,Rural,3+,N
+37,205159,5000,617,5877791,36,7.05,Self-Employed,Graduate,Semiurban,2,N
+52,134493,0,720,1874726,360,8.55,Self-Employed,Graduate,Urban,0,Y
+53,210081,50000,698,2376319,360,10.87,Salaried,Graduate,Urban,0,Y
+54,79383,5000,758,6125990,180,8.72,Salaried,Not Graduate,Urban,2,N
+35,69993,0,657,5963670,240,9.71,Salaried,Not Graduate,Rural,2,N
+38,186801,50000,770,185858,36,7.89,Self-Employed,Graduate,Semiurban,0,Y
+46,219955,20000,695,3031019,240,11.37,Salaried,Graduate,Urban,1,Y
+48,148210,0,650,3022880,84,10.4,Salaried,Graduate,Semiurban,1,Y
+39,181030,0,715,2200503,24,12.75,Self-Employed,Graduate,Semiurban,1,N
+29,95339,0,707,3822348,180,8.39,Salaried,Graduate,Semiurban,1,Y
+55,173587,0,703,3348321,36,8.25,Salaried,Graduate,Semiurban,1,N
+44,48877,5000,636,3514146,84,7.93,Salaried,Not Graduate,Urban,1,N
+64,130944,5000,678,2417888,12,14.2,Self-Employed,Graduate,Rural,1,N
+63,166796,5000,672,2353394,120,12.62,Self-Employed,Graduate,Rural,0,N
+60,94009,75000,733,2163639,36,14.01,Salaried,Graduate,Urban,1,Y
+64,69349,20000,768,5919286,360,8.4,Salaried,Not Graduate,Semiurban,2,N
+48,13922,35000,739,5704677,24,9.37,Self-Employed,Graduate,Semiurban,1,N
+34,107760,0,734,2834040,24,12.97,Salaried,Graduate,Rural,2,N
+28,88041,0,757,4042129,180,9.23,Salaried,Not Graduate,Semiurban,0,N
+25,149249,0,765,3871319,180,9.7,Salaried,Not Graduate,Urban,1,Y
+63,89955,0,660,6814867,240,10.31,Self-Employed,Graduate,Semiurban,0,N
+33,160378,35000,609,88802,300,10.81,Self-Employed,Not Graduate,Urban,0,N
+22,28949,0,696,4619204,24,8.12,Salaried,Graduate,Urban,1,N
+22,217993,0,783,3619653,120,14.52,Salaried,Graduate,Semiurban,2,Y
+34,29576,20000,604,6799810,84,11.85,Self-Employed,Graduate,Rural,0,N
+65,85986,0,623,4741674,84,14.19,Self-Employed,Graduate,Urban,1,N
+33,66780,75000,689,3718567,12,11.82,Self-Employed,Graduate,Rural,0,N
+25,177888,0,649,2064135,60,8.14,Self-Employed,Graduate,Rural,0,Y
+51,114825,20000,750,4011761,240,14.85,Self-Employed,Graduate,Urban,0,Y
+23,168003,5000,690,6162577,120,12.98,Salaried,Graduate,Semiurban,0,N
+42,173017,35000,740,6931536,84,13.84,Salaried,Graduate,Rural,0,N
+24,146734,75000,705,1233519,240,12.45,Salaried,Not Graduate,Rural,1,Y
+25,134487,5000,712,6086586,360,7.18,Self-Employed,Not Graduate,Urban,0,Y
+37,118210,20000,609,407520,240,14.64,Salaried,Not Graduate,Rural,0,N
+21,124520,50000,643,2126611,120,7.45,Salaried,Graduate,Urban,0,N
+59,173384,10000,558,6480364,180,7.46,Salaried,Graduate,Semiurban,1,N
+48,177693,10000,635,2690483,300,9.88,Salaried,Graduate,Rural,0,N
+63,106837,5000,650,6579641,180,9.73,Salaried,Graduate,Semiurban,2,N
+43,188385,35000,708,5382763,240,11.23,Salaried,Graduate,Rural,0,Y
+46,16107,75000,611,3120311,300,11.89,Unemployed,Graduate,Semiurban,0,N
+48,103487,0,801,3755611,240,13.58,Salaried,Graduate,Rural,1,Y
+41,154920,0,765,4965767,12,14.87,Salaried,Graduate,Rural,3+,N
+46,138291,35000,619,326268,12,13.29,Self-Employed,Graduate,Urban,0,Y
+46,96588,5000,566,1222253,120,14.35,Self-Employed,Graduate,Semiurban,0,N
+61,203625,0,581,6879332,24,14.62,Salaried,Graduate,Semiurban,1,N
+34,25715,0,706,2688170,360,12.04,Self-Employed,Not Graduate,Rural,0,N
+62,28600,5000,605,3625087,120,9.34,Self-Employed,Graduate,Semiurban,1,N
+28,109068,10000,667,3987701,60,8.29,Salaried,Graduate,Semiurban,3+,N
+29,138653,0,722,1589509,120,7.61,Salaried,Graduate,Rural,2,Y
+32,97290,35000,711,2764276,240,12.19,Salaried,Graduate,Semiurban,0,Y
+63,173515,5000,733,4859938,60,14.38,Self-Employed,Graduate,Semiurban,0,N
+32,146009,0,602,393704,84,12.66,Salaried,Graduate,Urban,1,Y
+56,100885,0,729,5685961,360,11.64,Self-Employed,Graduate,Urban,1,N
+47,71771,5000,731,4867729,36,14.16,Salaried,Graduate,Semiurban,0,N
+49,167988,20000,748,2455351,120,12.37,Salaried,Not Graduate,Semiurban,2,Y
+24,114073,20000,740,503329,60,10.83,Self-Employed,Graduate,Urban,0,Y
+50,186728,20000,603,4988534,24,13.6,Salaried,Graduate,Rural,0,N
+24,54535,5000,527,5659726,300,13.2,Salaried,Graduate,Semiurban,3+,N
+45,170984,0,710,1894689,60,14.42,Self-Employed,Not Graduate,Urban,0,Y
+56,158584,75000,790,4991578,180,13.47,Salaried,Graduate,Semiurban,1,Y
+62,123656,35000,636,5605429,24,9.59,Self-Employed,Graduate,Rural,0,N
+65,209854,75000,635,4768672,240,14.55,Unemployed,Not Graduate,Semiurban,3+,N
+31,162669,20000,697,3318618,300,11.0,Salaried,Graduate,Rural,2,Y
+55,204788,50000,756,2267952,60,7.24,Salaried,Graduate,Urban,0,Y
+47,159542,75000,734,2157755,12,12.69,Unemployed,Graduate,Rural,0,N
+54,72446,0,609,6749999,60,10.59,Salaried,Graduate,Semiurban,1,N
+57,91740,50000,658,143423,300,10.99,Salaried,Not Graduate,Rural,1,Y
+42,196132,20000,650,6977157,24,13.3,Unemployed,Graduate,Semiurban,2,N
+27,16423,75000,724,2414911,24,11.59,Salaried,Not Graduate,Rural,1,N
+56,202170,75000,735,4261698,360,9.97,Salaried,Graduate,Rural,1,Y
+48,209541,75000,629,589517,36,8.49,Salaried,Not Graduate,Rural,2,N
+27,186703,75000,634,505912,60,12.09,Salaried,Not Graduate,Semiurban,0,N
+39,109281,75000,705,2702727,60,11.8,Salaried,Not Graduate,Semiurban,0,N
+27,154902,35000,672,2677309,240,7.16,Salaried,Not Graduate,Rural,3+,Y
+55,74089,75000,636,4030836,120,9.71,Salaried,Not Graduate,Urban,2,N
+36,49543,75000,657,4377928,60,13.27,Unemployed,Graduate,Rural,0,N
+24,64110,75000,726,4919734,300,14.28,Self-Employed,Graduate,Urban,2,N
+33,198116,10000,664,3743492,120,12.45,Salaried,Graduate,Urban,0,Y
+48,95095,5000,679,2760006,240,13.29,Salaried,Not Graduate,Urban,0,N
+47,160959,0,636,4392525,300,10.63,Salaried,Graduate,Rural,1,Y
+59,132199,0,725,4213724,180,8.82,Salaried,Not Graduate,Urban,0,Y
+37,217594,35000,653,4391516,36,10.16,Salaried,Graduate,Semiurban,3+,N
+49,119693,75000,704,3460250,180,9.8,Salaried,Graduate,Urban,0,Y
+63,104130,20000,698,2656040,120,12.75,Salaried,Graduate,Rural,0,Y
+35,91496,0,661,5376729,12,11.01,Unemployed,Graduate,Urban,0,N
+22,152133,0,632,1914446,36,12.49,Salaried,Not Graduate,Semiurban,0,N
+50,28176,50000,682,4134812,300,13.12,Salaried,Graduate,Urban,0,N
+48,212610,0,667,4000142,360,10.4,Salaried,Graduate,Urban,0,Y
+36,215998,75000,753,3092961,240,7.89,Self-Employed,Not Graduate,Urban,3+,Y
+46,32990,0,632,3376690,360,13.69,Salaried,Graduate,Semiurban,0,N
+51,15268,20000,736,4487639,60,13.91,Salaried,Graduate,Semiurban,3+,N
+57,194979,50000,765,3340453,84,9.37,Self-Employed,Graduate,Urban,0,Y
+26,203312,0,730,2072190,60,10.33,Salaried,Not Graduate,Urban,1,Y
+42,107840,0,735,1445323,36,11.69,Unemployed,Graduate,Urban,0,N
+33,18611,20000,671,6366344,12,7.46,Unemployed,Graduate,Semiurban,3+,N
+36,33347,75000,717,6130884,180,9.57,Salaried,Not Graduate,Urban,3+,N
+22,117129,50000,717,6328466,120,13.89,Salaried,Not Graduate,Rural,0,N
+39,208745,5000,583,845719,300,10.52,Salaried,Graduate,Urban,3+,N
+24,175378,0,667,1672354,180,12.77,Self-Employed,Graduate,Semiurban,0,Y
+62,18200,0,609,1747895,180,8.78,Salaried,Graduate,Rural,0,N
+45,150024,50000,567,4957166,84,14.94,Salaried,Not Graduate,Semiurban,1,N
+39,180449,10000,687,6062233,300,13.82,Unemployed,Graduate,Urban,0,Y
+31,158795,35000,717,959062,60,11.8,Unemployed,Graduate,Rural,0,Y
+63,102696,50000,645,4801679,300,14.41,Self-Employed,Graduate,Semiurban,0,Y
+44,32278,75000,722,4473053,120,14.38,Salaried,Graduate,Urban,0,N
+65,164349,0,726,3807778,24,12.1,Salaried,Not Graduate,Semiurban,0,N
+50,191723,5000,695,6977884,240,13.22,Unemployed,Not Graduate,Rural,2,Y
+65,125675,20000,657,1358478,84,13.99,Salaried,Graduate,Semiurban,0,Y
+60,147164,75000,733,4686752,24,13.31,Self-Employed,Graduate,Semiurban,2,N
+54,32939,50000,804,1187224,36,13.03,Self-Employed,Not Graduate,Semiurban,0,Y
+36,207885,0,556,3705728,120,11.13,Salaried,Graduate,Urban,0,N
+55,86339,50000,737,2999973,12,12.0,Salaried,Graduate,Semiurban,0,N
+35,219012,35000,614,2445679,120,10.67,Salaried,Graduate,Semiurban,3+,Y
+59,44041,50000,744,4420780,12,10.27,Self-Employed,Graduate,Urban,0,N
+35,168966,75000,754,6938180,240,10.8,Unemployed,Graduate,Rural,3+,Y
+24,168338,0,663,4682531,360,8.85,Salaried,Graduate,Urban,2,Y
+26,179472,10000,662,2674869,240,7.27,Self-Employed,Not Graduate,Urban,1,N
+41,68127,0,689,6309048,300,11.32,Salaried,Graduate,Rural,1,N
+50,211895,0,698,2714061,240,11.83,Self-Employed,Graduate,Urban,0,Y
+34,97284,0,677,4504957,360,13.45,Salaried,Not Graduate,Urban,0,N
+57,161619,75000,764,3518354,24,12.84,Salaried,Graduate,Urban,0,N
+32,29069,20000,588,1301519,24,9.72,Self-Employed,Not Graduate,Semiurban,0,N
+42,139234,20000,657,5331380,36,11.72,Self-Employed,Graduate,Urban,0,N
+36,65093,0,732,6758101,36,8.67,Salaried,Graduate,Urban,2,N
+46,121607,0,671,794199,12,8.58,Salaried,Graduate,Urban,0,N
+29,165304,0,674,6910227,36,10.99,Salaried,Graduate,Semiurban,2,N
+64,120749,75000,670,1918852,240,13.95,Self-Employed,Not Graduate,Semiurban,0,N
+62,26644,5000,752,3749517,84,11.33,Salaried,Graduate,Urban,1,N
+52,145110,50000,735,4067888,360,7.24,Salaried,Graduate,Urban,1,Y
+44,86862,0,604,2298162,300,14.12,Salaried,Graduate,Rural,2,N
+54,141933,75000,616,1354114,180,9.84,Salaried,Not Graduate,Semiurban,0,N
+42,154762,10000,663,5745455,120,9.39,Salaried,Not Graduate,Rural,1,Y
+61,12294,20000,681,3717716,36,13.36,Self-Employed,Not Graduate,Urban,0,N
+23,69963,35000,749,333250,120,12.97,Salaried,Graduate,Urban,2,Y
+30,43045,0,682,4546218,84,7.85,Salaried,Graduate,Urban,1,N
+41,155844,10000,776,3422054,300,11.82,Salaried,Graduate,Semiurban,1,Y
+50,98686,20000,811,1708744,240,12.41,Self-Employed,Not Graduate,Semiurban,1,Y
+52,32724,50000,634,6499422,60,14.31,Self-Employed,Graduate,Urban,3+,N
+53,71819,10000,701,1953113,360,11.45,Salaried,Graduate,Semiurban,0,Y
+63,210765,20000,757,3708533,300,9.65,Self-Employed,Not Graduate,Semiurban,0,Y
+58,152300,10000,705,4562943,360,9.89,Salaried,Graduate,Rural,0,Y
+62,94137,0,713,2915376,360,9.54,Salaried,Not Graduate,Urban,0,Y
+36,218059,0,661,3047080,36,7.7,Salaried,Not Graduate,Urban,0,N
+52,152059,50000,655,107833,84,9.36,Self-Employed,Graduate,Semiurban,0,Y
+51,67294,0,704,2651852,180,9.05,Salaried,Graduate,Urban,1,Y
+48,45180,5000,755,6227493,180,12.98,Self-Employed,Graduate,Urban,0,N
+48,180625,0,622,6506033,360,13.9,Self-Employed,Graduate,Semiurban,1,N
+44,76422,35000,681,4616316,240,14.18,Salaried,Graduate,Urban,3+,N
+39,89244,0,808,4390193,24,9.59,Self-Employed,Not Graduate,Semiurban,0,Y
+27,64477,10000,678,6833921,36,10.51,Self-Employed,Not Graduate,Semiurban,2,N
+25,162549,5000,702,1588429,36,8.55,Salaried,Not Graduate,Rural,1,Y
+21,42285,20000,743,4475418,60,14.98,Self-Employed,Not Graduate,Semiurban,0,N
+36,30458,10000,728,1573279,12,12.49,Salaried,Graduate,Rural,0,N
+37,133704,0,681,3595594,12,13.79,Salaried,Graduate,Semiurban,2,N
+64,141778,35000,677,4169383,180,14.41,Salaried,Graduate,Rural,0,Y
+31,144592,50000,790,126983,360,10.71,Salaried,Graduate,Rural,2,Y
+30,120279,10000,629,4023080,360,11.29,Salaried,Graduate,Rural,0,N
+22,63584,35000,603,5246771,84,10.42,Self-Employed,Graduate,Urban,0,N
+26,184449,10000,763,1267820,36,14.47,Salaried,Graduate,Semiurban,3+,Y
+50,215842,10000,773,6150716,84,12.5,Salaried,Graduate,Urban,3+,N
+37,36661,0,628,765530,240,8.09,Self-Employed,Graduate,Semiurban,1,N
+48,76024,20000,748,6441950,12,11.95,Self-Employed,Graduate,Semiurban,3+,N
+25,120522,0,715,2080982,12,7.79,Salaried,Graduate,Semiurban,1,N
+55,98794,50000,684,2221791,300,9.09,Salaried,Not Graduate,Urban,3+,Y
+33,191580,0,699,6369433,300,13.85,Salaried,Graduate,Urban,2,Y
+23,212738,0,812,2242131,60,12.29,Self-Employed,Not Graduate,Semiurban,3+,Y
+62,156508,0,741,5552370,300,14.07,Self-Employed,Not Graduate,Semiurban,1,Y
+37,94791,0,731,3870793,36,7.89,Salaried,Not Graduate,Urban,3+,N
+35,45436,0,727,6302094,60,14.45,Self-Employed,Not Graduate,Urban,0,N
+23,167365,0,654,1710223,84,10.42,Salaried,Graduate,Rural,2,Y
+47,189500,5000,672,4656037,300,9.44,Salaried,Not Graduate,Urban,1,Y
+33,212284,0,683,2019908,84,14.89,Unemployed,Not Graduate,Urban,3+,Y
+31,60046,0,636,5682498,24,7.82,Self-Employed,Not Graduate,Rural,2,N
+51,141471,50000,727,3284297,180,7.3,Salaried,Graduate,Urban,0,Y
+51,27329,0,768,6843735,12,8.81,Salaried,Graduate,Semiurban,2,N
+27,210104,75000,687,5698430,84,13.55,Self-Employed,Not Graduate,Urban,1,Y
+26,29655,50000,640,5543478,360,12.13,Self-Employed,Graduate,Urban,0,N
+31,176324,0,642,1646889,36,13.97,Salaried,Graduate,Semiurban,3+,N
+56,175125,5000,797,1842820,12,12.69,Salaried,Graduate,Semiurban,3+,N
+32,107598,0,655,313602,24,14.74,Salaried,Graduate,Rural,0,Y
+40,186796,5000,614,455715,360,14.15,Self-Employed,Graduate,Rural,0,Y
+26,24753,5000,596,326383,24,11.14,Salaried,Graduate,Semiurban,0,N
+29,195173,50000,662,5543778,36,13.43,Salaried,Graduate,Rural,2,N
+50,86747,5000,772,5422199,120,13.53,Salaried,Graduate,Urban,0,N
+55,168913,35000,774,6639023,240,8.01,Salaried,Graduate,Rural,1,Y
+59,37857,10000,731,259514,240,12.64,Salaried,Not Graduate,Urban,0,Y
+45,197958,35000,645,2274281,240,10.79,Salaried,Graduate,Semiurban,0,N
+33,43984,0,747,6605692,24,7.88,Salaried,Graduate,Urban,3+,N
+40,204942,20000,681,4489289,300,10.44,Salaried,Graduate,Rural,1,Y
+28,73579,0,733,307465,120,7.14,Salaried,Not Graduate,Urban,2,Y
+31,123730,0,835,1584899,180,10.72,Salaried,Graduate,Semiurban,1,Y
+42,155130,35000,679,4518085,240,7.06,Salaried,Not Graduate,Urban,3+,Y
+56,143510,50000,605,4470243,12,13.47,Salaried,Graduate,Urban,0,N
+32,127915,0,818,5551908,12,8.59,Salaried,Graduate,Rural,0,N
+37,210315,20000,683,545753,24,8.93,Salaried,Graduate,Urban,2,Y
+22,137353,0,682,1073466,240,14.1,Self-Employed,Graduate,Semiurban,0,Y
+22,118953,75000,587,948776,300,10.48,Unemployed,Graduate,Urban,0,N
+45,27354,0,743,2163470,36,9.45,Salaried,Graduate,Urban,1,N
+64,62075,0,763,5810676,24,7.53,Self-Employed,Graduate,Semiurban,1,N
+46,107354,50000,711,6286555,240,11.85,Salaried,Graduate,Urban,0,N
+22,207233,0,766,4327532,300,13.18,Salaried,Graduate,Rural,2,Y
+46,120643,0,669,5612809,180,7.24,Salaried,Graduate,Semiurban,2,N
+26,22540,75000,783,5049604,360,14.19,Salaried,Graduate,Urban,0,Y
+52,55248,0,745,4269357,180,8.43,Salaried,Graduate,Rural,2,N
+41,133336,0,810,2623590,84,11.17,Salaried,Graduate,Rural,2,Y
+37,41528,50000,587,760076,24,7.52,Unemployed,Not Graduate,Rural,2,N
+30,205327,75000,614,6070585,84,12.97,Self-Employed,Graduate,Rural,2,Y
+28,54510,0,753,6372266,300,13.89,Self-Employed,Graduate,Urban,0,N
+36,166828,35000,720,2111076,240,8.79,Self-Employed,Graduate,Semiurban,3+,Y
+41,168745,75000,636,230168,60,12.45,Salaried,Graduate,Semiurban,3+,Y
+46,137940,0,702,1004124,360,12.23,Salaried,Graduate,Semiurban,0,Y
+52,132542,10000,756,2784309,60,14.57,Salaried,Not Graduate,Rural,1,N
+64,113179,20000,770,1192952,12,11.68,Salaried,Not Graduate,Urban,2,Y
+22,53386,5000,713,351225,300,10.76,Salaried,Not Graduate,Rural,2,N
+63,68694,5000,702,1025593,300,8.43,Salaried,Graduate,Semiurban,2,Y
+46,105923,5000,727,147695,36,8.37,Salaried,Graduate,Urban,0,Y
+24,129174,50000,693,4904969,120,8.31,Salaried,Not Graduate,Semiurban,0,N
+60,191464,0,821,2218414,300,7.17,Salaried,Graduate,Rural,3+,Y
+59,165626,20000,669,6952916,24,11.53,Self-Employed,Not Graduate,Semiurban,0,N
+33,216611,10000,697,5323655,36,13.86,Unemployed,Graduate,Urban,0,N
+28,128733,35000,684,3721719,12,13.69,Self-Employed,Not Graduate,Urban,1,N
+34,105259,35000,797,1425028,360,9.14,Salaried,Graduate,Rural,1,Y
+57,171410,0,662,1911221,24,10.83,Salaried,Not Graduate,Semiurban,2,N
+62,112806,10000,754,6388007,60,13.93,Salaried,Not Graduate,Semiurban,0,N
+34,213160,0,693,214880,300,8.31,Salaried,Graduate,Semiurban,2,Y
+42,124912,10000,667,383132,300,10.66,Salaried,Graduate,Semiurban,2,Y
+53,144999,5000,560,5499946,180,10.3,Salaried,Graduate,Urban,0,N
+29,206625,50000,692,5251025,12,14.48,Salaried,Graduate,Rural,1,N
+53,159239,35000,805,1301204,360,12.15,Unemployed,Graduate,Semiurban,3+,Y
+31,89122,5000,651,5791743,120,13.01,Self-Employed,Not Graduate,Rural,1,N
+59,188652,75000,506,4916967,12,14.25,Salaried,Graduate,Semiurban,0,N
+27,204977,10000,715,3787986,240,9.25,Self-Employed,Graduate,Rural,1,Y
+65,127059,0,617,1949162,84,7.67,Salaried,Graduate,Semiurban,2,N
+53,187332,20000,579,3329091,36,13.94,Salaried,Graduate,Rural,0,N
+33,71977,10000,661,5444043,12,11.88,Self-Employed,Not Graduate,Urban,1,N
+57,112988,75000,607,3356746,12,12.2,Salaried,Graduate,Urban,2,N
+49,177047,50000,762,4398031,360,9.87,Salaried,Not Graduate,Urban,2,Y
+42,51533,0,707,3918894,60,13.68,Salaried,Graduate,Urban,0,N
+54,183565,0,734,3108201,84,13.87,Self-Employed,Graduate,Rural,0,Y
+52,203013,5000,652,5076669,120,12.43,Salaried,Not Graduate,Rural,1,N
+24,215814,35000,686,1885028,84,10.24,Salaried,Graduate,Rural,1,Y
+31,43240,20000,656,2383316,12,8.81,Salaried,Graduate,Urban,0,N
+50,16408,50000,709,4142717,240,13.75,Unemployed,Graduate,Semiurban,1,N
+39,87444,0,546,6541580,24,7.71,Salaried,Not Graduate,Urban,0,N
+35,117462,20000,688,4873994,120,11.11,Self-Employed,Graduate,Urban,0,N
+45,119968,75000,757,664517,120,10.66,Salaried,Graduate,Rural,0,Y
+28,24738,0,801,298473,24,7.23,Salaried,Graduate,Semiurban,1,N
+65,149936,35000,744,4582094,120,8.4,Self-Employed,Not Graduate,Rural,0,Y
+45,115227,20000,699,2178161,24,12.17,Salaried,Graduate,Semiurban,2,N
+21,83779,0,579,342294,240,13.07,Salaried,Graduate,Urban,0,N
+41,111310,0,700,5311692,240,11.73,Salaried,Graduate,Semiurban,0,N
+54,129088,0,562,2426170,60,13.35,Salaried,Not Graduate,Rural,3+,N
+46,57712,0,631,1911165,180,8.41,Self-Employed,Graduate,Urban,2,N
+43,168920,35000,676,3731861,120,7.04,Self-Employed,Graduate,Semiurban,1,Y
+49,219830,50000,672,5103040,36,8.6,Salaried,Graduate,Semiurban,1,N
+22,86106,35000,747,899940,240,7.9,Self-Employed,Graduate,Rural,0,Y
+43,166510,35000,671,2876956,12,10.22,Salaried,Graduate,Rural,0,N
+39,24821,5000,607,5301250,180,9.29,Salaried,Not Graduate,Urban,2,N
+61,92305,0,658,4808989,60,14.78,Salaried,Graduate,Rural,0,N
+47,127773,20000,640,840589,240,7.73,Salaried,Graduate,Urban,1,Y
+29,177333,35000,760,6465996,36,7.18,Salaried,Graduate,Semiurban,2,N
+59,76584,50000,594,1342448,12,13.9,Salaried,Graduate,Rural,0,N
+33,63337,20000,657,1210476,360,8.36,Salaried,Graduate,Semiurban,1,N
+65,192147,75000,749,366693,180,7.9,Self-Employed,Graduate,Semiurban,0,Y
+37,71186,50000,633,6473282,180,7.12,Salaried,Not Graduate,Semiurban,0,N
+59,55347,75000,714,1481103,24,13.63,Salaried,Not Graduate,Urban,0,N
+55,173489,35000,691,6234541,120,9.64,Salaried,Graduate,Semiurban,3+,Y
+53,30479,0,667,4195485,60,7.86,Unemployed,Not Graduate,Rural,0,N
+50,156598,50000,575,3591835,24,12.62,Unemployed,Graduate,Urban,1,N
+22,109249,20000,691,6382834,84,12.27,Self-Employed,Graduate,Rural,2,N
+30,175242,35000,655,364960,84,10.17,Salaried,Graduate,Rural,2,N
+60,189579,0,708,5978883,24,7.66,Salaried,Graduate,Rural,2,N
+54,92982,0,594,5667580,300,9.52,Salaried,Not Graduate,Rural,0,N
+41,63593,75000,723,6548905,24,12.6,Salaried,Not Graduate,Urban,1,N
+55,50438,10000,732,4155879,120,12.53,Salaried,Graduate,Rural,2,N
+50,161899,20000,780,6909601,12,12.11,Salaried,Not Graduate,Semiurban,1,N
+55,102380,0,658,2228726,360,8.92,Salaried,Not Graduate,Rural,0,Y
+44,179082,50000,644,54483,36,9.76,Self-Employed,Graduate,Rural,2,Y
+24,166062,0,748,345224,300,12.67,Salaried,Graduate,Urban,0,Y
+39,219439,0,621,5668113,240,13.52,Salaried,Graduate,Urban,1,N
+30,188037,0,634,2737485,24,13.7,Salaried,Not Graduate,Semiurban,2,N
+59,202594,0,669,456222,60,10.63,Self-Employed,Graduate,Rural,1,Y
+61,199665,10000,616,562312,300,14.0,Salaried,Graduate,Semiurban,2,N
+30,201327,20000,783,5546183,120,13.71,Salaried,Graduate,Urban,0,Y
+60,218476,0,752,3163269,60,14.77,Salaried,Graduate,Urban,1,Y
+35,90657,0,548,1846875,300,7.64,Salaried,Graduate,Semiurban,1,N
+30,77154,0,550,501740,180,9.55,Salaried,Graduate,Semiurban,3+,N
+33,136031,0,647,6658216,24,12.17,Unemployed,Graduate,Semiurban,0,N
+45,186315,50000,722,4659231,84,12.33,Self-Employed,Not Graduate,Semiurban,0,Y
+31,49600,10000,734,5509255,60,10.68,Self-Employed,Not Graduate,Rural,2,N
+32,219689,0,782,4382227,300,7.85,Self-Employed,Graduate,Rural,2,Y
+52,74695,5000,708,5032566,120,13.91,Salaried,Graduate,Semiurban,2,N
+39,70159,10000,620,1659634,360,10.18,Self-Employed,Graduate,Rural,0,Y
+52,94550,35000,717,2662002,12,8.4,Salaried,Not Graduate,Rural,2,N
+21,13052,20000,615,4428262,24,7.77,Salaried,Graduate,Rural,0,N
+25,94397,35000,635,4191181,180,11.96,Salaried,Graduate,Urban,2,N
+33,41636,0,585,1265399,180,9.26,Salaried,Graduate,Rural,1,N
+37,178696,0,631,1121312,24,12.82,Unemployed,Graduate,Semiurban,2,N
+33,173758,10000,649,937841,24,8.31,Self-Employed,Not Graduate,Urban,0,N
+38,143563,0,653,5962444,360,9.01,Salaried,Graduate,Urban,0,Y
+62,179206,5000,805,2544989,60,10.18,Salaried,Graduate,Urban,2,Y
+41,46309,75000,696,5657436,360,10.1,Salaried,Graduate,Semiurban,0,Y
+47,66028,50000,713,1307435,240,10.23,Salaried,Graduate,Semiurban,2,Y
+56,195433,50000,700,1645762,60,11.1,Self-Employed,Graduate,Semiurban,0,Y
+28,207565,0,793,3287218,84,12.34,Unemployed,Graduate,Urban,3+,Y
+27,68202,0,628,6409942,84,8.83,Salaried,Not Graduate,Semiurban,2,N
+40,61183,0,739,3990114,300,9.15,Salaried,Graduate,Rural,2,Y
+48,36079,0,634,3012263,180,15.0,Self-Employed,Graduate,Semiurban,0,N
+43,163541,10000,681,3269204,240,12.15,Self-Employed,Not Graduate,Rural,0,Y
+26,149441,0,722,986125,120,8.25,Salaried,Graduate,Semiurban,2,Y
+49,50373,35000,602,3795123,240,11.19,Self-Employed,Not Graduate,Semiurban,0,N
+62,140004,0,665,5253313,360,9.6,Self-Employed,Graduate,Rural,3+,Y
+44,169506,50000,690,5941960,120,13.36,Salaried,Graduate,Semiurban,3+,Y
+61,73835,0,723,6074741,300,7.2,Salaried,Graduate,Rural,0,N
+39,22570,10000,675,6922075,84,13.67,Salaried,Graduate,Urban,2,N
+39,57866,20000,850,465420,300,8.98,Unemployed,Graduate,Urban,3+,Y
+34,134755,75000,812,559973,360,9.22,Self-Employed,Graduate,Rural,0,Y
+44,119586,0,547,379213,84,10.57,Salaried,Graduate,Rural,0,N
+46,84586,35000,698,4307509,180,12.9,Salaried,Graduate,Urban,1,N
+25,127489,50000,726,315527,120,11.21,Salaried,Graduate,Rural,2,Y
+64,149093,75000,712,199272,360,10.15,Unemployed,Graduate,Semiurban,2,Y
+27,209692,50000,780,5344105,24,13.32,Self-Employed,Not Graduate,Semiurban,0,N
+45,196453,50000,504,3672953,240,12.71,Self-Employed,Graduate,Urban,0,N
+34,153987,0,620,5122099,300,10.9,Salaried,Graduate,Rural,3+,N
+60,79003,75000,790,2842590,60,12.98,Salaried,Graduate,Urban,0,Y
+49,94965,0,769,5857061,84,13.18,Self-Employed,Graduate,Urban,1,N
+21,209823,0,839,109771,360,12.24,Salaried,Graduate,Rural,1,Y
+22,80703,0,798,3645644,240,9.28,Unemployed,Graduate,Rural,2,Y
+30,105989,50000,607,6539497,240,14.46,Salaried,Not Graduate,Urban,3+,N
+57,217921,5000,757,1727224,36,12.69,Self-Employed,Graduate,Semiurban,2,Y
+59,95177,20000,672,2771751,12,7.12,Self-Employed,Graduate,Rural,3+,N
+45,175885,10000,704,235278,300,12.48,Unemployed,Graduate,Urban,1,Y
+46,54541,0,694,3585858,24,12.44,Self-Employed,Graduate,Semiurban,0,N
+50,94993,75000,660,5906689,120,13.37,Self-Employed,Graduate,Semiurban,0,N
+42,23575,0,657,5358927,360,8.57,Salaried,Not Graduate,Urban,3+,N
+43,187329,0,740,2999837,120,8.42,Salaried,Graduate,Rural,2,Y
+37,24706,0,655,4150856,180,12.56,Salaried,Graduate,Rural,0,N
+43,183478,5000,704,3767242,84,10.52,Salaried,Graduate,Semiurban,0,N
+34,188831,10000,722,6039391,36,11.28,Salaried,Graduate,Semiurban,2,N
+54,45748,35000,655,619642,12,14.87,Salaried,Not Graduate,Rural,1,N
+51,13520,0,671,497735,60,10.46,Salaried,Graduate,Semiurban,0,N
+53,212057,75000,765,6467898,180,8.09,Salaried,Graduate,Semiurban,2,Y
+37,146847,5000,580,247777,180,8.71,Salaried,Not Graduate,Urban,0,N
+38,133292,75000,646,643961,60,14.88,Self-Employed,Graduate,Rural,0,Y
+40,138803,0,603,1329581,60,7.23,Salaried,Graduate,Urban,0,N
+48,169106,5000,704,2117814,120,14.01,Salaried,Graduate,Rural,0,Y
+55,134145,0,850,4412098,240,9.31,Self-Employed,Not Graduate,Rural,2,Y
+21,169982,10000,610,2599733,240,13.24,Salaried,Graduate,Rural,2,Y
+63,107653,0,770,4357013,120,10.89,Self-Employed,Not Graduate,Rural,2,N
+59,16826,5000,782,1142534,60,11.29,Unemployed,Not Graduate,Urban,0,N
+65,25298,0,551,1320872,120,7.35,Salaried,Graduate,Rural,1,N
+33,168983,10000,603,4771500,24,11.9,Salaried,Graduate,Semiurban,0,N
+42,52023,75000,689,434438,300,12.64,Salaried,Graduate,Semiurban,0,Y
+45,33130,0,626,6965473,120,9.57,Salaried,Graduate,Rural,0,N
+27,156473,20000,708,3782139,12,8.65,Salaried,Graduate,Urban,0,N
+37,45168,10000,779,4579304,84,12.6,Salaried,Not Graduate,Semiurban,0,N
+22,197326,20000,736,6323127,84,8.83,Unemployed,Graduate,Urban,1,N
+26,76875,0,677,2879200,36,12.49,Salaried,Graduate,Urban,0,N
+43,112298,75000,727,1335197,240,10.61,Self-Employed,Graduate,Rural,2,Y
+35,102150,35000,713,4505590,180,11.1,Salaried,Graduate,Urban,1,Y
+24,93205,20000,608,3025871,12,7.27,Self-Employed,Graduate,Semiurban,1,N
+58,140212,0,651,2176718,300,10.27,Salaried,Graduate,Urban,1,Y
+26,185351,75000,720,5859788,36,8.82,Salaried,Graduate,Rural,3+,N
+31,62709,0,686,3760928,240,7.11,Salaried,Graduate,Urban,2,N
+31,20357,20000,711,5719204,240,11.04,Salaried,Not Graduate,Urban,3+,N
+44,163408,0,748,1403377,240,7.21,Self-Employed,Graduate,Urban,2,Y
+65,136504,10000,533,4340170,360,9.41,Salaried,Graduate,Urban,1,N
+22,105397,0,786,2774967,120,7.81,Salaried,Graduate,Semiurban,0,Y
+28,214016,35000,566,5241467,84,12.37,Salaried,Graduate,Urban,0,N
+35,82063,50000,691,1649994,300,7.67,Self-Employed,Not Graduate,Rural,0,Y
+25,101448,5000,700,3054094,300,13.56,Self-Employed,Not Graduate,Semiurban,0,Y
+21,190925,50000,680,1437760,360,10.58,Self-Employed,Not Graduate,Semiurban,1,Y
+62,74785,0,702,5259227,120,10.72,Self-Employed,Graduate,Urban,0,N
+31,218254,0,653,522784,120,13.37,Self-Employed,Graduate,Rural,1,Y
+48,89465,0,642,952627,360,7.58,Salaried,Graduate,Semiurban,0,N
+60,164595,0,683,3914737,180,10.03,Salaried,Graduate,Rural,0,Y
+54,131511,75000,701,849920,120,8.99,Self-Employed,Graduate,Rural,0,Y
+22,173727,10000,645,6855102,24,10.87,Salaried,Graduate,Urban,2,N
+36,195405,5000,711,3911154,180,13.64,Salaried,Not Graduate,Urban,0,N
+23,44324,0,633,797667,180,13.42,Salaried,Graduate,Semiurban,3+,N
+63,163685,50000,651,5674315,36,8.96,Salaried,Graduate,Semiurban,3+,N
+41,99052,10000,674,1295343,240,11.25,Self-Employed,Graduate,Urban,0,Y
+64,83232,5000,719,6369485,360,13.2,Salaried,Not Graduate,Semiurban,1,N
+39,171165,0,669,5178283,240,11.25,Salaried,Graduate,Semiurban,1,N
+46,91579,0,715,3248146,360,12.62,Self-Employed,Graduate,Urban,0,Y
+23,46351,20000,794,6174797,360,8.33,Self-Employed,Not Graduate,Rural,1,N
+65,144086,20000,658,3830060,36,11.96,Unemployed,Graduate,Urban,3+,N
+59,209055,50000,774,1030438,360,8.54,Salaried,Graduate,Semiurban,0,Y
+43,142637,0,603,6936858,360,10.24,Salaried,Graduate,Semiurban,3+,N
+31,77498,50000,731,3256104,24,9.38,Salaried,Graduate,Urban,0,N
+40,35689,35000,677,6320040,120,9.67,Salaried,Graduate,Semiurban,3+,N
+40,66657,35000,826,5324985,120,11.95,Salaried,Graduate,Semiurban,2,N
+56,131997,5000,656,3509413,60,14.64,Salaried,Graduate,Rural,3+,Y
+34,67925,10000,635,479810,120,14.39,Salaried,Not Graduate,Rural,0,N
+49,167379,50000,758,2216320,12,10.02,Salaried,Not Graduate,Urban,1,N
+57,89633,5000,716,1587790,12,8.77,Salaried,Graduate,Semiurban,1,N
+30,38459,0,694,1883966,84,11.98,Salaried,Not Graduate,Rural,3+,N
+55,146720,0,532,5549175,300,12.88,Unemployed,Graduate,Rural,2,N
+44,173383,0,715,2450205,84,12.34,Salaried,Graduate,Rural,1,Y
+30,197029,0,682,4799742,360,10.59,Salaried,Graduate,Rural,3+,Y
+21,42904,0,694,425407,120,11.72,Salaried,Not Graduate,Urban,2,N
+60,180058,35000,638,6889758,36,14.88,Self-Employed,Graduate,Rural,0,N
+60,29987,75000,773,1029637,60,7.59,Self-Employed,Graduate,Rural,2,Y
+23,205768,5000,688,2930623,24,13.56,Salaried,Graduate,Rural,0,N
+45,127899,0,673,3566609,360,9.05,Self-Employed,Graduate,Urban,0,N
+25,45692,35000,587,260202,360,11.94,Salaried,Not Graduate,Semiurban,2,N
+23,174445,20000,675,3076554,180,14.36,Unemployed,Graduate,Rural,2,Y
+23,180444,5000,617,2805397,84,14.03,Unemployed,Not Graduate,Urban,2,N
+63,140206,5000,777,2106167,84,7.36,Self-Employed,Graduate,Semiurban,2,Y
+43,105373,75000,704,2286293,36,14.31,Salaried,Not Graduate,Rural,3+,Y
+65,138199,0,649,3416826,300,10.86,Salaried,Not Graduate,Semiurban,1,N
+55,170587,10000,676,177717,24,7.36,Salaried,Graduate,Urban,2,Y
+54,31194,0,782,2232654,12,8.6,Self-Employed,Graduate,Semiurban,3+,Y
+25,14359,20000,697,1198079,360,11.16,Salaried,Not Graduate,Rural,0,N
+40,132445,20000,687,6809333,36,8.11,Self-Employed,Graduate,Urban,0,N
+46,185890,0,809,435982,24,8.39,Salaried,Graduate,Urban,0,Y
+47,119096,10000,712,806654,12,13.91,Salaried,Graduate,Urban,2,N
+27,16031,0,747,6780968,180,8.19,Salaried,Not Graduate,Semiurban,0,Y
+21,14975,75000,665,1986512,180,13.7,Salaried,Not Graduate,Urban,2,Y
+48,137993,50000,663,2766214,24,11.21,Salaried,Graduate,Urban,0,N
+25,171319,50000,743,5914678,300,8.26,Salaried,Not Graduate,Urban,3+,Y
+63,123312,0,685,5574805,36,13.69,Self-Employed,Graduate,Rural,1,N
+35,57682,50000,711,2915277,84,8.57,Self-Employed,Not Graduate,Urban,0,Y
+62,66418,0,684,1296787,240,7.63,Self-Employed,Graduate,Semiurban,0,Y
+39,108422,0,688,1756601,60,14.72,Salaried,Not Graduate,Rural,2,N
+40,40713,0,679,883056,240,10.39,Salaried,Graduate,Rural,0,Y
+55,107060,10000,602,5792385,24,13.2,Salaried,Not Graduate,Urban,0,N
+61,44762,10000,773,6224132,36,12.24,Salaried,Graduate,Urban,0,N
+28,153500,0,649,6241503,240,12.79,Unemployed,Graduate,Semiurban,2,N
+40,163896,75000,610,3993864,36,9.78,Salaried,Graduate,Semiurban,1,N
+26,191325,50000,693,871016,120,8.75,Self-Employed,Not Graduate,Semiurban,2,Y
+52,54273,5000,645,2430453,36,10.92,Salaried,Graduate,Urban,3+,N
+52,174245,0,770,6518958,120,11.71,Self-Employed,Not Graduate,Semiurban,2,N
+27,183326,20000,729,6550309,120,13.01,Salaried,Graduate,Semiurban,2,N
+60,56112,5000,650,2683940,36,12.12,Self-Employed,Graduate,Semiurban,0,N
+65,196577,20000,630,401996,120,11.06,Salaried,Graduate,Semiurban,1,N
+60,59580,0,730,5753505,180,14.67,Salaried,Not Graduate,Semiurban,3+,N
+57,71392,0,643,2918460,240,9.76,Salaried,Graduate,Rural,0,N
+54,101129,0,599,5856149,360,7.77,Salaried,Not Graduate,Urban,0,N
+33,181582,20000,580,3038158,24,14.87,Self-Employed,Graduate,Urban,1,N
+65,88007,75000,734,2170333,84,12.47,Self-Employed,Graduate,Rural,3+,Y
+34,179686,75000,586,6767741,180,12.13,Salaried,Not Graduate,Urban,0,N
+44,161520,20000,611,3491730,24,7.86,Salaried,Graduate,Semiurban,2,N
+52,133284,0,733,1638216,24,13.28,Salaried,Graduate,Urban,3+,N
+55,125949,10000,740,2468649,84,11.7,Self-Employed,Graduate,Urban,2,Y
+35,114868,5000,612,2924957,36,11.36,Self-Employed,Not Graduate,Semiurban,0,N
+39,105690,35000,648,3452430,360,11.48,Salaried,Graduate,Rural,3+,N
+42,75607,0,751,5546127,12,9.33,Salaried,Not Graduate,Urban,3+,N
+36,137716,10000,701,1863952,60,9.54,Self-Employed,Graduate,Rural,0,Y
+35,23487,10000,658,2142259,12,11.57,Salaried,Graduate,Urban,1,N
+61,91243,50000,695,2097887,36,9.31,Salaried,Not Graduate,Semiurban,0,N
+31,104955,75000,715,4641196,84,13.66,Salaried,Not Graduate,Rural,0,N
+40,190488,50000,616,476525,60,13.1,Salaried,Graduate,Rural,0,Y
+27,197342,0,622,1856437,84,7.12,Salaried,Not Graduate,Urban,0,Y
+54,167503,0,760,869959,12,8.43,Self-Employed,Graduate,Semiurban,2,N
+57,49193,20000,802,3684692,36,14.59,Self-Employed,Not Graduate,Urban,0,Y
+43,177571,10000,747,5631498,240,7.33,Salaried,Graduate,Semiurban,1,Y
+23,176065,75000,675,2487775,360,13.55,Salaried,Not Graduate,Semiurban,2,N
+26,218202,0,644,3154211,360,11.78,Salaried,Graduate,Semiurban,0,Y
+32,138093,20000,692,3433099,360,14.32,Salaried,Graduate,Rural,0,N
+26,154919,5000,756,1935103,180,10.85,Self-Employed,Not Graduate,Rural,2,Y
+31,77763,10000,770,2069947,180,7.84,Salaried,Graduate,Semiurban,0,Y
+43,147630,5000,687,609153,300,10.81,Salaried,Graduate,Rural,0,Y
+47,116056,0,714,5467457,24,13.04,Self-Employed,Not Graduate,Rural,0,N
+52,171383,50000,594,3868680,12,8.31,Self-Employed,Graduate,Urban,0,N
+62,24395,0,679,1534251,60,9.39,Self-Employed,Graduate,Semiurban,2,N
+54,143607,0,783,4835503,24,9.42,Unemployed,Graduate,Urban,0,N
+42,134575,35000,679,3323601,120,14.15,Salaried,Graduate,Urban,1,Y
+36,210650,20000,718,1993916,120,9.59,Self-Employed,Graduate,Urban,2,Y
+60,218172,20000,746,6848940,12,7.19,Self-Employed,Graduate,Rural,2,N
+21,96576,10000,741,2593850,120,14.09,Self-Employed,Graduate,Rural,0,Y
+53,121213,5000,694,2900199,36,14.76,Salaried,Graduate,Urban,3+,N
+45,88809,50000,652,4194715,24,12.88,Self-Employed,Not Graduate,Urban,2,N
+43,22067,20000,547,1710979,36,8.0,Self-Employed,Not Graduate,Urban,0,N
+29,29834,50000,613,4521897,36,11.78,Self-Employed,Not Graduate,Urban,3+,N
+33,31411,10000,668,6126256,12,14.17,Salaried,Graduate,Semiurban,3+,N
+35,208118,0,734,1053230,84,13.23,Self-Employed,Not Graduate,Urban,2,Y
+22,98036,20000,701,5660459,84,13.92,Self-Employed,Graduate,Urban,2,N
+46,29037,50000,762,3238833,36,10.04,Salaried,Not Graduate,Semiurban,0,N
+46,68987,35000,609,6546984,300,14.94,Salaried,Graduate,Urban,1,N
+38,201321,0,573,3694777,60,7.89,Salaried,Graduate,Semiurban,0,N
+61,167334,35000,727,3911164,60,11.09,Self-Employed,Graduate,Urban,0,Y
+41,85760,20000,804,2870126,24,14.31,Self-Employed,Graduate,Semiurban,1,Y
+24,84482,0,701,5260925,240,13.58,Salaried,Graduate,Urban,2,N
+23,218209,0,652,5086044,120,11.0,Unemployed,Graduate,Urban,0,N
+37,98998,20000,745,1430020,180,11.26,Self-Employed,Graduate,Urban,0,Y
+29,39321,0,779,4354090,12,11.51,Salaried,Not Graduate,Semiurban,3+,N
+59,151689,75000,609,4356450,120,11.82,Self-Employed,Not Graduate,Semiurban,0,Y
+58,62305,75000,666,3776639,36,7.61,Salaried,Graduate,Rural,0,N
+64,144237,0,753,3413807,84,11.72,Salaried,Graduate,Semiurban,0,Y
+44,176435,50000,704,3950366,240,12.41,Salaried,Graduate,Urban,0,Y
+42,130111,0,636,278198,60,12.91,Salaried,Graduate,Rural,1,Y
+60,92947,10000,669,6336801,12,8.61,Salaried,Not Graduate,Urban,3+,N
+49,139023,0,631,2199741,240,10.58,Self-Employed,Graduate,Urban,1,Y
+59,103719,0,593,1769410,120,10.93,Salaried,Graduate,Rural,3+,N
+29,137936,35000,708,1507361,36,12.67,Self-Employed,Graduate,Urban,1,Y
+29,53808,0,604,5806051,300,9.78,Self-Employed,Graduate,Semiurban,0,N
+23,170288,0,680,3558321,12,14.05,Self-Employed,Not Graduate,Semiurban,0,N
+38,44507,0,627,3213377,36,11.31,Self-Employed,Graduate,Urban,3+,N
+56,71442,0,716,3555081,180,11.25,Self-Employed,Graduate,Rural,1,N
+44,190601,5000,665,2343910,300,7.24,Self-Employed,Graduate,Urban,0,Y
+45,122261,5000,671,2729759,360,13.55,Salaried,Not Graduate,Urban,0,Y
+25,135094,0,588,5223088,12,10.4,Salaried,Graduate,Semiurban,1,N
+26,155374,75000,702,6477797,240,8.24,Unemployed,Not Graduate,Semiurban,3+,Y
+24,175534,0,659,5965421,120,8.58,Unemployed,Graduate,Urban,2,N
+37,28870,5000,635,535866,84,12.63,Salaried,Graduate,Urban,3+,Y
+58,88249,0,714,4194888,120,11.45,Salaried,Graduate,Urban,0,N
+54,164896,10000,745,2448711,300,14.44,Salaried,Graduate,Rural,0,Y
+58,113231,0,796,6500369,12,8.78,Salaried,Graduate,Semiurban,1,N
+34,107280,0,699,3466913,300,14.13,Salaried,Not Graduate,Semiurban,1,Y
+38,202491,50000,702,1778684,120,9.42,Salaried,Graduate,Rural,0,Y
+64,212949,0,626,4863173,120,13.41,Salaried,Graduate,Semiurban,3+,N
+52,200291,35000,643,506134,180,7.73,Salaried,Graduate,Semiurban,0,Y
+52,22871,35000,762,4970538,60,12.38,Salaried,Graduate,Semiurban,0,N
+44,135880,35000,658,4084769,12,11.31,Salaried,Graduate,Rural,0,N
+25,39821,0,804,6543058,24,9.47,Salaried,Not Graduate,Rural,2,N
+54,153734,35000,607,3235705,300,14.11,Salaried,Not Graduate,Urban,1,N
+37,63784,75000,678,6385207,240,10.5,Salaried,Graduate,Rural,1,N
+35,27562,0,676,540851,12,14.65,Salaried,Graduate,Semiurban,0,N
+53,147254,50000,645,3304538,24,9.2,Self-Employed,Not Graduate,Rural,1,N
+42,83561,20000,669,5878752,300,7.33,Self-Employed,Graduate,Rural,0,Y
+28,205313,50000,676,5806429,36,12.8,Salaried,Graduate,Semiurban,0,N
+61,130001,50000,700,6129131,300,9.53,Salaried,Graduate,Urban,2,N
+38,33033,0,683,1601810,180,11.14,Self-Employed,Graduate,Rural,2,N
+57,103929,75000,756,3450498,180,8.52,Self-Employed,Graduate,Semiurban,1,Y
+39,185782,10000,850,480421,180,13.27,Salaried,Graduate,Rural,0,Y
+34,75949,5000,737,2268819,84,10.67,Self-Employed,Graduate,Urban,1,N
+57,151116,0,715,4829637,360,11.01,Salaried,Not Graduate,Urban,3+,N
+60,158186,50000,625,536723,360,13.43,Salaried,Graduate,Urban,0,Y
+35,73002,0,654,4857729,12,14.77,Salaried,Graduate,Rural,2,N
+38,61021,35000,579,6056555,84,7.76,Salaried,Not Graduate,Urban,2,N
+45,166438,75000,721,5662005,180,8.87,Salaried,Not Graduate,Rural,2,Y
+51,201301,0,594,6645412,24,14.0,Salaried,Graduate,Semiurban,0,N
+43,95586,0,734,4699954,180,11.73,Salaried,Graduate,Rural,0,N
+53,55074,20000,641,4785768,12,12.52,Salaried,Graduate,Urban,2,N
+58,120217,75000,713,537981,84,11.35,Self-Employed,Not Graduate,Semiurban,2,Y
+39,161325,0,724,2827166,60,9.49,Salaried,Not Graduate,Urban,3+,Y
+59,135767,35000,567,5964084,120,12.82,Salaried,Graduate,Rural,2,N
+58,114820,0,638,1336449,36,12.54,Salaried,Not Graduate,Urban,2,Y
+64,53040,5000,713,1749461,180,12.34,Self-Employed,Graduate,Semiurban,0,Y
+41,164466,10000,721,2813412,120,10.5,Salaried,Graduate,Semiurban,2,Y
+59,128837,10000,742,5465545,360,9.47,Self-Employed,Graduate,Semiurban,1,Y
+64,96357,20000,668,1073344,240,12.09,Salaried,Graduate,Rural,1,Y
+63,149826,0,684,5586986,84,12.41,Salaried,Graduate,Rural,1,N
+63,85577,0,806,6544391,180,14.2,Salaried,Graduate,Rural,1,N
+38,47114,0,703,1451804,60,8.51,Salaried,Graduate,Urban,0,N
+61,146030,0,743,522301,84,12.82,Unemployed,Not Graduate,Urban,0,Y
+40,68245,35000,673,1141567,36,9.18,Self-Employed,Graduate,Semiurban,1,Y
+61,212346,5000,592,260837,180,10.58,Self-Employed,Graduate,Semiurban,0,N
+57,79463,50000,720,4878985,12,9.69,Unemployed,Graduate,Rural,1,N
+27,155211,0,725,205409,120,14.52,Salaried,Not Graduate,Urban,0,Y
+26,52754,0,751,3140390,240,9.43,Salaried,Not Graduate,Urban,2,N
+50,15349,35000,632,3984081,84,9.18,Salaried,Graduate,Urban,3+,N
+32,216827,10000,644,6959411,60,10.04,Self-Employed,Graduate,Urban,0,N
+54,18430,0,550,3403691,120,9.26,Salaried,Graduate,Urban,0,N
+56,13193,20000,726,1512101,120,12.16,Self-Employed,Not Graduate,Semiurban,0,N
+44,56368,20000,743,2546158,12,14.32,Salaried,Graduate,Semiurban,2,Y
+56,28337,5000,646,5284698,180,13.02,Salaried,Graduate,Rural,0,N
+44,85478,50000,661,2228927,36,14.03,Salaried,Graduate,Urban,0,N
+46,169550,75000,676,6549921,60,8.2,Salaried,Graduate,Rural,3+,N
+30,45170,75000,793,1540391,240,10.2,Salaried,Graduate,Rural,1,Y
+47,219518,0,749,2612954,120,8.78,Salaried,Not Graduate,Rural,3+,Y
+28,210328,0,764,3528692,180,13.35,Unemployed,Graduate,Urban,0,Y
+48,94073,5000,680,948830,84,9.34,Self-Employed,Graduate,Rural,1,Y
+56,67282,0,661,411602,360,8.67,Self-Employed,Graduate,Urban,0,Y
+55,32993,10000,762,1456875,36,10.88,Self-Employed,Graduate,Semiurban,1,N
+27,107400,0,582,6488867,300,13.45,Self-Employed,Graduate,Semiurban,3+,N
+56,129076,75000,723,1745058,36,7.59,Self-Employed,Graduate,Semiurban,2,Y
+53,41263,5000,606,6242554,300,9.62,Salaried,Not Graduate,Urban,0,N
+27,213374,10000,741,569353,300,9.73,Self-Employed,Graduate,Urban,1,Y
+24,75459,0,723,2584749,12,8.3,Self-Employed,Graduate,Semiurban,0,N
+50,137436,0,632,1680379,120,9.16,Self-Employed,Not Graduate,Rural,1,N
+39,125529,35000,704,5255383,120,10.02,Salaried,Graduate,Semiurban,1,N
+43,155317,5000,616,1695883,84,14.56,Salaried,Graduate,Urban,3+,N
+22,99060,10000,622,2181786,36,13.51,Self-Employed,Graduate,Urban,2,N
+31,190536,50000,664,2361100,12,11.53,Self-Employed,Graduate,Rural,2,N
+50,30483,0,640,1262992,36,14.24,Self-Employed,Graduate,Urban,1,N
+49,146613,0,754,2904586,24,11.31,Salaried,Not Graduate,Urban,1,N
+34,167548,0,825,683172,300,10.69,Salaried,Graduate,Urban,0,Y
+36,174043,0,690,3929652,60,13.84,Salaried,Graduate,Semiurban,0,N
+42,213676,0,689,3696688,84,14.22,Salaried,Graduate,Semiurban,0,Y
+36,202970,0,738,3252015,180,11.44,Self-Employed,Graduate,Rural,0,Y
+33,60992,35000,669,556320,180,8.49,Unemployed,Graduate,Semiurban,1,Y
+35,89718,20000,719,4947102,24,11.58,Salaried,Not Graduate,Rural,2,N
+44,58088,0,567,5819487,360,7.53,Self-Employed,Graduate,Semiurban,2,N
+45,33608,50000,644,2888252,180,14.97,Salaried,Graduate,Urban,1,N
+50,169085,0,589,5494288,180,10.25,Salaried,Graduate,Semiurban,3+,N
+32,203790,0,565,2539821,12,12.19,Self-Employed,Graduate,Rural,1,N
+28,106475,20000,751,6663397,300,9.24,Self-Employed,Graduate,Rural,2,N
+35,199246,50000,670,4937257,120,10.98,Self-Employed,Graduate,Urban,0,Y
+55,20397,0,791,6608577,180,14.58,Salaried,Graduate,Rural,0,N
+58,169923,0,787,4080978,60,13.84,Salaried,Graduate,Rural,1,N
+56,22013,35000,685,2912627,180,11.96,Self-Employed,Not Graduate,Rural,0,N
+38,144139,50000,662,6948685,12,14.76,Self-Employed,Graduate,Rural,2,N
+63,216127,0,640,5663205,36,10.76,Salaried,Graduate,Rural,1,N
+46,94017,20000,530,1813645,300,12.4,Salaried,Graduate,Rural,0,N
+38,162456,20000,654,4501222,120,11.43,Salaried,Not Graduate,Urban,2,Y
+47,174274,0,671,5461555,60,11.44,Salaried,Graduate,Rural,2,N
+60,119186,5000,645,1452936,240,9.08,Salaried,Graduate,Urban,0,N
+40,99296,0,626,505606,360,7.13,Salaried,Graduate,Semiurban,0,Y
+25,44898,0,683,3674415,180,8.68,Salaried,Graduate,Rural,2,N
+34,158356,0,665,5225991,12,10.34,Salaried,Graduate,Urban,2,N
+65,201352,35000,698,1864010,240,8.25,Salaried,Graduate,Semiurban,0,Y
+41,90274,20000,625,4444843,240,13.27,Salaried,Graduate,Urban,3+,N
+30,90035,0,811,1033414,120,14.16,Salaried,Graduate,Semiurban,3+,Y
+60,49176,75000,724,2909815,360,10.32,Salaried,Not Graduate,Urban,0,Y
+37,80251,35000,678,5325752,180,13.27,Salaried,Graduate,Rural,2,N
+35,142203,0,638,537938,84,13.7,Salaried,Graduate,Urban,2,Y
+25,176332,75000,626,4435497,60,11.44,Salaried,Not Graduate,Semiurban,0,N
+63,206505,75000,740,2915114,120,14.38,Unemployed,Graduate,Semiurban,2,Y
+58,182180,0,662,2460727,12,14.09,Salaried,Not Graduate,Urban,3+,N
+38,117574,5000,692,1754970,180,7.74,Self-Employed,Not Graduate,Rural,1,Y
+42,16005,10000,715,4288279,120,11.55,Salaried,Graduate,Urban,2,N
+32,51930,20000,653,5089151,36,14.44,Salaried,Graduate,Rural,0,N
+64,126443,35000,705,1561346,60,12.96,Self-Employed,Graduate,Rural,2,N
+62,142414,35000,568,4995120,240,8.61,Salaried,Graduate,Rural,0,N
+27,85013,0,626,3749774,120,12.1,Salaried,Graduate,Urban,0,N
+31,133427,0,563,5490940,300,10.17,Salaried,Graduate,Rural,0,N
+61,213819,20000,662,2461864,300,9.11,Unemployed,Graduate,Rural,1,N
+30,166382,0,661,6140328,300,13.02,Salaried,Not Graduate,Rural,2,Y
+37,77426,0,802,681851,84,8.32,Self-Employed,Graduate,Urban,0,Y
+57,216175,5000,637,1598269,180,12.75,Salaried,Graduate,Semiurban,1,N
+31,74537,0,698,5942069,60,10.38,Self-Employed,Not Graduate,Urban,1,N
+59,41608,35000,715,6736079,24,10.95,Self-Employed,Graduate,Urban,1,N
+50,148945,0,779,6582204,240,8.83,Self-Employed,Graduate,Urban,1,Y
+29,164420,75000,717,6037265,24,10.44,Self-Employed,Graduate,Rural,2,N
+22,199978,35000,736,2648055,84,14.92,Salaried,Not Graduate,Semiurban,0,Y
+28,30774,35000,804,4881034,60,12.21,Salaried,Graduate,Rural,3+,N
+44,145546,20000,579,1998297,240,14.08,Salaried,Graduate,Semiurban,2,Y
+64,212495,75000,650,6274902,180,13.93,Salaried,Not Graduate,Rural,0,N
+42,128444,35000,663,661728,360,12.72,Salaried,Graduate,Rural,1,Y
+26,191679,75000,683,1208899,36,7.94,Salaried,Not Graduate,Urban,1,Y
+23,37123,50000,646,3458993,24,12.94,Unemployed,Graduate,Semiurban,1,N
+29,14534,35000,757,6076237,180,10.62,Salaried,Not Graduate,Semiurban,1,N
+40,65473,75000,647,5254399,36,13.36,Salaried,Graduate,Rural,0,N
+40,201563,0,645,647562,120,11.28,Self-Employed,Graduate,Urban,3+,Y
+34,178157,0,717,1879557,240,7.85,Salaried,Graduate,Semiurban,0,Y
+48,164636,35000,639,3474581,120,10.61,Salaried,Not Graduate,Urban,0,Y
+32,40309,20000,619,6807203,60,8.1,Salaried,Graduate,Semiurban,1,N
+32,207279,0,603,183283,180,13.23,Unemployed,Graduate,Semiurban,1,Y
+62,207569,5000,678,4405484,24,10.7,Salaried,Not Graduate,Rural,2,N
+45,90173,20000,753,2947338,300,14.3,Salaried,Graduate,Rural,2,Y
+47,209048,0,738,6510221,84,8.19,Self-Employed,Graduate,Urban,0,N
+46,63736,75000,716,1081643,360,10.09,Unemployed,Graduate,Rural,0,Y
+27,144923,50000,694,6452511,120,8.3,Unemployed,Graduate,Semiurban,0,Y
+47,117574,0,651,5195619,12,7.67,Salaried,Graduate,Urban,1,N
+55,74861,10000,681,4639492,84,8.62,Salaried,Graduate,Semiurban,0,N
+22,54270,10000,607,2946386,300,7.24,Self-Employed,Graduate,Rural,3+,N
+37,204214,5000,697,1644225,180,8.71,Self-Employed,Graduate,Rural,2,Y
+33,187959,20000,752,3230354,360,11.58,Salaried,Graduate,Rural,3+,Y
+47,177901,0,581,4524349,12,10.55,Salaried,Graduate,Urban,2,N
+61,85466,5000,772,4876525,36,7.21,Salaried,Graduate,Rural,1,N
+38,165294,35000,547,2396202,84,8.38,Salaried,Not Graduate,Semiurban,1,N
+23,210250,0,636,1545635,12,7.27,Salaried,Not Graduate,Urban,0,N
+49,41463,50000,617,3565313,12,12.63,Self-Employed,Not Graduate,Rural,0,N
+34,173643,0,640,5393884,36,9.19,Salaried,Graduate,Semiurban,0,N
+51,138977,35000,663,2772787,240,13.65,Salaried,Graduate,Urban,1,Y
+27,111630,35000,768,71317,60,10.11,Salaried,Graduate,Semiurban,2,Y
+33,182009,35000,621,160034,12,12.39,Salaried,Not Graduate,Urban,3+,N
+38,137106,20000,626,1139686,180,12.45,Salaried,Graduate,Semiurban,2,N
+58,60217,0,638,2791823,60,13.37,Salaried,Graduate,Rural,2,N
+45,152877,0,650,4010235,120,11.56,Unemployed,Not Graduate,Urban,3+,N
+48,65771,0,645,537993,84,9.8,Unemployed,Not Graduate,Semiurban,0,Y
+52,88105,0,600,2202567,36,7.58,Salaried,Graduate,Semiurban,1,N
+48,105084,10000,702,6501643,240,7.39,Self-Employed,Graduate,Semiurban,3+,N
+60,117524,5000,677,2959328,12,11.07,Self-Employed,Graduate,Rural,3+,N
+30,179130,50000,750,1937091,60,13.81,Salaried,Graduate,Rural,0,Y
+49,64177,0,766,2202947,12,8.97,Salaried,Graduate,Urban,2,N
+32,32069,0,585,246284,120,13.72,Self-Employed,Graduate,Rural,0,N
+46,153235,5000,788,2378707,240,9.81,Salaried,Graduate,Urban,1,Y
+38,158068,0,719,2968745,12,14.77,Salaried,Graduate,Semiurban,3+,N
+62,41125,75000,768,337132,120,13.8,Salaried,Not Graduate,Urban,3+,Y
+22,131937,75000,680,5076137,180,7.75,Salaried,Not Graduate,Urban,3+,Y
+45,112558,20000,728,180545,36,12.29,Salaried,Graduate,Rural,1,Y
+23,159537,0,723,6672769,24,14.25,Self-Employed,Graduate,Rural,0,N
+37,28481,50000,773,2777745,120,9.52,Salaried,Graduate,Rural,0,N
+50,44072,35000,646,2876328,300,11.13,Self-Employed,Graduate,Rural,3+,Y
+31,33125,20000,647,1653184,24,13.47,Salaried,Graduate,Urban,0,N
+35,212766,5000,670,2597403,360,11.46,Self-Employed,Graduate,Semiurban,0,Y
+51,154382,35000,774,1560756,180,13.25,Salaried,Graduate,Semiurban,2,Y
+53,44337,50000,786,631389,24,8.12,Salaried,Graduate,Urban,0,Y
+50,13071,0,614,615188,60,14.39,Salaried,Not Graduate,Urban,0,N
+24,183466,0,722,6946496,60,7.99,Salaried,Graduate,Rural,0,N
+36,112213,5000,685,717363,120,9.49,Salaried,Graduate,Urban,3+,Y
+54,13908,35000,672,333499,360,12.51,Salaried,Graduate,Urban,0,Y
+59,149166,10000,722,4958978,60,9.76,Salaried,Graduate,Urban,0,N
+30,161656,75000,808,307766,36,14.4,Self-Employed,Graduate,Urban,1,Y
+38,96902,5000,726,5436870,240,9.56,Salaried,Graduate,Rural,1,N
+60,75368,35000,658,153601,24,9.19,Salaried,Graduate,Urban,3+,N
+26,44012,35000,647,5373114,360,13.46,Salaried,Graduate,Urban,0,N
+61,90713,5000,721,4807893,240,12.42,Salaried,Graduate,Semiurban,1,N
+37,171475,35000,705,6195341,84,9.3,Self-Employed,Not Graduate,Rural,0,N
+52,194973,75000,762,1910946,12,7.5,Salaried,Graduate,Urban,3+,N
+40,56033,50000,780,5688953,240,10.31,Salaried,Not Graduate,Rural,1,N
+38,93846,50000,705,5947636,12,9.8,Salaried,Not Graduate,Rural,0,N
+37,107024,20000,729,5508921,60,14.06,Salaried,Graduate,Semiurban,3+,N
+22,123059,35000,798,5280777,120,14.24,Salaried,Graduate,Urban,2,Y
+61,94297,35000,774,5523437,36,11.34,Salaried,Not Graduate,Urban,1,N
+55,140191,0,631,5576632,12,14.73,Self-Employed,Graduate,Semiurban,1,N
+62,147529,75000,597,2455609,24,9.6,Self-Employed,Not Graduate,Rural,2,N
+46,14411,35000,601,1198292,24,11.93,Salaried,Graduate,Semiurban,3+,N
+64,15090,10000,575,2358290,180,9.36,Salaried,Graduate,Rural,1,N
+24,155820,75000,715,4795149,120,7.4,Salaried,Not Graduate,Rural,3+,Y
+37,179560,20000,608,2582828,300,7.77,Salaried,Graduate,Urban,3+,Y
+46,209350,20000,734,6773665,12,7.12,Salaried,Graduate,Rural,0,N
+42,122336,0,636,5471087,60,7.76,Salaried,Graduate,Semiurban,2,N
+21,95553,5000,751,5875587,240,14.97,Salaried,Graduate,Semiurban,3+,N
+25,51031,75000,730,2901826,84,7.69,Salaried,Graduate,Rural,0,Y
+41,187215,75000,699,1462435,240,14.01,Self-Employed,Graduate,Semiurban,0,Y
+58,36609,5000,718,6845536,84,14.19,Salaried,Graduate,Urban,0,N
+48,59684,0,605,455345,300,11.23,Salaried,Not Graduate,Rural,1,N
+33,110952,0,528,5747042,36,11.14,Salaried,Graduate,Semiurban,0,N
+57,125574,0,652,3529457,120,12.57,Salaried,Not Graduate,Urban,0,N
+61,130090,20000,717,4625975,300,8.99,Salaried,Graduate,Semiurban,0,Y
+34,62993,75000,603,1541458,360,9.3,Salaried,Not Graduate,Urban,2,Y
+62,62878,0,730,90436,180,7.09,Salaried,Not Graduate,Urban,0,Y
+31,55223,20000,726,179977,24,8.37,Salaried,Graduate,Semiurban,3+,Y
+46,76002,10000,695,3279687,240,11.4,Salaried,Not Graduate,Rural,0,Y
+35,144452,0,704,1240945,36,9.45,Salaried,Graduate,Semiurban,1,Y
+53,56792,50000,681,4544283,120,13.64,Self-Employed,Graduate,Semiurban,1,N
+23,17940,20000,696,2669307,24,13.48,Salaried,Graduate,Rural,0,N
+23,146973,0,604,558135,120,10.18,Salaried,Graduate,Rural,0,Y
+62,217877,75000,755,4694336,240,12.72,Salaried,Graduate,Rural,2,Y
+28,167007,0,709,6783732,240,13.59,Salaried,Graduate,Rural,1,Y
+60,157835,75000,722,1193221,180,13.25,Salaried,Graduate,Rural,0,Y
+51,95038,0,638,5101077,360,14.57,Self-Employed,Graduate,Semiurban,1,N
+48,67966,0,590,1562554,360,8.69,Salaried,Not Graduate,Semiurban,0,N
+53,148243,10000,767,6664104,300,11.79,Self-Employed,Graduate,Urban,0,Y
+24,137731,0,591,1347448,120,10.74,Salaried,Graduate,Urban,0,Y
+23,168965,0,665,705059,180,7.03,Salaried,Graduate,Semiurban,0,Y
+24,23438,0,679,5583506,24,12.74,Salaried,Graduate,Urban,0,N
+21,61408,0,703,258302,240,7.7,Salaried,Graduate,Semiurban,2,Y
+62,150281,0,708,1490239,36,8.48,Self-Employed,Graduate,Semiurban,0,Y
+41,201613,0,685,1783384,84,12.99,Salaried,Graduate,Semiurban,2,Y
+26,187419,0,593,854172,180,14.45,Salaried,Graduate,Urban,0,Y
+35,167193,0,669,2167171,360,12.81,Self-Employed,Not Graduate,Urban,3+,Y
+27,180027,0,681,5915679,24,14.07,Salaried,Graduate,Urban,0,N
+61,206691,75000,721,6065399,36,11.11,Self-Employed,Graduate,Rural,1,N
+56,38832,50000,702,4947419,360,10.89,Salaried,Graduate,Urban,2,N
+21,175025,35000,760,3549120,120,9.28,Self-Employed,Graduate,Rural,0,Y
+34,42769,10000,741,1009124,360,7.55,Salaried,Graduate,Rural,0,Y
+50,104914,20000,604,581311,360,8.34,Salaried,Not Graduate,Rural,1,N
+39,148908,0,691,2098894,180,8.79,Self-Employed,Graduate,Urban,2,Y
+31,83395,35000,715,3927780,24,13.99,Salaried,Graduate,Semiurban,1,N
+39,71295,50000,654,6612874,24,7.02,Self-Employed,Graduate,Urban,0,N
+40,60974,20000,785,233329,36,10.38,Salaried,Graduate,Urban,2,Y
+52,205389,5000,651,1449371,360,14.77,Salaried,Not Graduate,Urban,0,Y
+45,18105,75000,603,4690889,84,14.25,Salaried,Graduate,Rural,2,N
+42,130758,0,571,5657854,180,7.89,Salaried,Graduate,Urban,0,N
+48,36708,20000,656,150455,360,12.95,Salaried,Graduate,Urban,1,Y
+57,129191,20000,657,3481647,12,13.98,Salaried,Not Graduate,Semiurban,0,N
+25,165429,10000,662,6419902,60,8.5,Self-Employed,Not Graduate,Semiurban,0,N
+43,169972,0,543,5466934,12,9.01,Self-Employed,Not Graduate,Rural,1,N
+55,52203,0,688,6905676,84,12.47,Salaried,Not Graduate,Semiurban,1,N
+34,195613,0,762,2238885,36,13.06,Self-Employed,Graduate,Semiurban,3+,Y
+60,80515,10000,646,6068174,24,14.0,Salaried,Graduate,Semiurban,2,N
+29,108076,50000,727,2816078,36,10.18,Salaried,Graduate,Rural,1,N
+22,200821,20000,648,856135,360,7.38,Self-Employed,Graduate,Semiurban,0,N
+54,128873,0,634,920121,24,14.81,Self-Employed,Graduate,Urban,0,N
+55,187697,20000,776,4888143,240,9.07,Self-Employed,Graduate,Semiurban,0,Y
+30,28144,20000,736,4835843,36,13.16,Salaried,Graduate,Semiurban,2,N
+65,187366,10000,746,4563872,180,14.35,Salaried,Not Graduate,Rural,0,Y
+48,204287,10000,841,6722028,36,11.33,Self-Employed,Graduate,Rural,1,Y
+22,40535,35000,689,516892,180,11.19,Salaried,Graduate,Semiurban,1,N
+48,198039,75000,688,2548182,24,8.92,Self-Employed,Graduate,Semiurban,0,Y
+36,127577,0,699,1343745,180,7.49,Salaried,Graduate,Urban,1,N
+64,23396,0,783,2701773,360,7.88,Salaried,Graduate,Semiurban,2,N
+33,163040,75000,751,6272680,300,12.79,Salaried,Graduate,Urban,1,Y
+25,85110,75000,632,5207692,240,8.59,Salaried,Not Graduate,Urban,2,N
+60,61517,75000,637,2387884,84,10.96,Salaried,Not Graduate,Urban,3+,Y
+30,197724,35000,714,4703689,12,11.15,Salaried,Not Graduate,Rural,1,N
+35,71774,10000,723,5240193,360,14.41,Salaried,Not Graduate,Rural,0,N
+50,134021,75000,721,5401340,24,11.32,Self-Employed,Graduate,Semiurban,0,N
+35,75608,10000,726,6450127,36,11.92,Salaried,Graduate,Urban,0,N
+35,78486,0,678,1140133,36,13.49,Salaried,Graduate,Semiurban,1,N
+43,128056,10000,730,3737883,36,9.41,Salaried,Not Graduate,Rural,3+,N
+26,85465,0,732,5820675,12,12.5,Self-Employed,Graduate,Rural,0,N
+45,119021,0,632,3891498,300,7.78,Self-Employed,Graduate,Semiurban,0,Y
+61,150259,0,608,6393496,180,7.57,Salaried,Graduate,Urban,0,N
+65,120686,0,705,5944583,60,14.75,Self-Employed,Graduate,Semiurban,0,N
+53,155368,75000,663,4768390,360,9.53,Salaried,Not Graduate,Semiurban,0,Y
+47,182185,50000,596,6872670,36,10.66,Self-Employed,Graduate,Urban,1,N
+31,42769,0,740,298553,180,8.22,Salaried,Not Graduate,Urban,2,Y
+60,36011,0,717,6189542,24,9.43,Salaried,Graduate,Urban,0,N
+25,104976,0,781,4012532,60,14.22,Salaried,Graduate,Rural,2,N
+52,160002,0,687,5919302,300,14.46,Self-Employed,Graduate,Semiurban,1,N
+58,185630,10000,695,3290684,120,11.99,Self-Employed,Graduate,Semiurban,0,Y
+41,105925,20000,596,112835,300,8.63,Salaried,Graduate,Urban,3+,N
+46,185400,50000,782,6578460,360,14.65,Salaried,Graduate,Rural,0,Y
+57,51233,50000,730,4674279,180,13.26,Self-Employed,Graduate,Rural,2,N
+62,157365,10000,748,3872587,120,7.79,Salaried,Not Graduate,Semiurban,2,Y
+22,153822,0,674,3118133,300,12.47,Salaried,Graduate,Rural,0,Y
+44,180150,0,686,3291214,36,10.31,Salaried,Not Graduate,Rural,2,N
+39,13701,0,711,1590676,300,7.28,Self-Employed,Graduate,Urban,0,N
+31,154828,0,640,3339227,300,8.98,Salaried,Not Graduate,Semiurban,0,Y
+59,122056,0,639,6084600,12,11.38,Salaried,Graduate,Urban,3+,N
+27,185961,20000,819,1946209,84,11.59,Salaried,Graduate,Rural,0,Y
+36,185781,20000,712,1533687,120,14.72,Self-Employed,Graduate,Rural,2,Y
+39,85962,10000,645,6746974,36,10.73,Self-Employed,Graduate,Semiurban,3+,N
+31,129348,20000,597,6079385,240,9.76,Salaried,Not Graduate,Rural,1,N
+51,26779,0,613,4633722,24,14.1,Self-Employed,Graduate,Semiurban,0,N
+49,33673,0,711,4220073,300,11.09,Salaried,Graduate,Semiurban,3+,N
+21,31778,5000,627,4965592,180,11.36,Salaried,Not Graduate,Urban,2,N
+28,144680,5000,619,1839321,180,8.57,Salaried,Graduate,Rural,1,N
+38,135465,5000,676,4403687,180,13.27,Salaried,Graduate,Urban,0,N
+60,203063,75000,713,3027608,60,13.25,Salaried,Graduate,Urban,2,Y
+39,14607,0,773,1227584,36,11.46,Unemployed,Not Graduate,Semiurban,2,N
+40,186885,10000,636,915877,240,9.96,Salaried,Not Graduate,Rural,0,Y
+51,186934,20000,644,4826774,120,11.62,Salaried,Graduate,Urban,0,N
+56,44107,0,713,3716874,240,13.58,Self-Employed,Not Graduate,Semiurban,2,N
+29,51479,50000,657,1473471,360,12.42,Salaried,Graduate,Semiurban,3+,N
+51,182868,5000,743,704196,24,14.16,Salaried,Graduate,Rural,1,Y
+60,181905,0,659,1006407,300,10.47,Self-Employed,Not Graduate,Urban,0,Y
+61,182591,75000,602,3893383,36,12.22,Salaried,Graduate,Urban,1,N
+35,85995,50000,643,3131695,36,11.57,Salaried,Not Graduate,Semiurban,1,N
+55,180032,5000,588,6595163,84,12.23,Self-Employed,Graduate,Urban,1,N
+58,34172,5000,654,3607230,180,10.95,Salaried,Not Graduate,Semiurban,0,N
+27,219876,0,720,6657671,300,11.45,Salaried,Not Graduate,Rural,0,N
+58,88917,0,692,3818950,24,10.3,Self-Employed,Not Graduate,Semiurban,0,N
+62,47867,0,681,3969503,60,11.28,Salaried,Not Graduate,Rural,0,N
+60,13891,20000,606,6565881,12,9.21,Self-Employed,Not Graduate,Rural,2,N
+60,167750,0,639,405135,84,14.2,Self-Employed,Graduate,Urban,3+,Y
+32,53779,0,663,2477626,84,9.62,Self-Employed,Not Graduate,Urban,0,N
+43,13508,5000,705,1220271,180,13.98,Salaried,Not Graduate,Semiurban,2,N
+58,42431,0,850,5079035,84,13.59,Salaried,Graduate,Semiurban,0,Y
+24,103146,50000,644,4035135,180,12.68,Salaried,Graduate,Rural,0,N
+31,214938,50000,750,2227692,240,11.94,Unemployed,Graduate,Rural,0,Y
+30,134369,50000,613,2991886,36,13.39,Salaried,Graduate,Rural,1,N
+38,102099,5000,621,5512324,24,12.91,Salaried,Graduate,Rural,3+,N
+26,124867,35000,560,2373208,12,11.3,Salaried,Not Graduate,Rural,0,N
+28,126159,75000,637,4489357,60,7.24,Salaried,Graduate,Rural,2,Y
+65,46249,5000,756,4829880,300,10.63,Salaried,Graduate,Rural,2,N
+42,23653,0,687,3097382,84,9.66,Self-Employed,Graduate,Rural,1,N
+57,44601,0,767,5177785,12,14.79,Salaried,Graduate,Rural,1,N
+24,24294,0,656,2893294,12,9.85,Salaried,Graduate,Semiurban,0,N
+23,164092,0,757,4913002,360,12.35,Salaried,Graduate,Semiurban,3+,Y
+64,137102,10000,652,3207354,240,9.11,Salaried,Graduate,Urban,1,N
+64,165542,0,746,3016957,60,14.74,Salaried,Graduate,Rural,3+,N
+21,82273,50000,794,3964651,360,14.8,Salaried,Graduate,Semiurban,1,Y
+31,117794,35000,673,1477822,36,11.55,Salaried,Graduate,Rural,0,Y
+43,73730,50000,600,5813695,12,14.96,Salaried,Not Graduate,Semiurban,1,N
+49,141891,0,807,6264348,60,10.12,Salaried,Graduate,Semiurban,0,Y
+58,45958,0,631,1596313,24,7.18,Self-Employed,Graduate,Urban,1,N
+21,26244,20000,651,2075737,12,14.42,Salaried,Graduate,Urban,1,N
+26,169714,0,668,2213639,36,9.07,Self-Employed,Graduate,Rural,0,N
+21,55666,0,747,5943656,240,11.43,Self-Employed,Graduate,Semiurban,2,N
+47,207954,0,733,5134352,240,14.39,Salaried,Graduate,Semiurban,0,Y
+45,71158,5000,731,3667159,180,8.91,Salaried,Graduate,Semiurban,2,Y
+44,88724,5000,670,2778885,84,11.28,Salaried,Graduate,Urban,1,N
+30,171587,75000,675,5712228,24,11.38,Salaried,Graduate,Urban,2,N
+55,90254,0,741,4495649,240,11.39,Salaried,Graduate,Rural,1,N
+62,54733,75000,796,249194,24,11.97,Salaried,Graduate,Rural,0,Y
+52,72779,0,607,6890416,36,10.41,Self-Employed,Graduate,Rural,1,N
+65,173528,50000,770,1009380,180,10.62,Salaried,Graduate,Rural,1,Y
+58,48393,35000,751,3646062,300,12.45,Salaried,Graduate,Semiurban,0,N
+24,107567,50000,732,5031398,360,14.54,Salaried,Not Graduate,Rural,0,Y
+56,77413,0,643,5992080,36,14.35,Salaried,Graduate,Urban,0,N
+48,95028,20000,695,870586,60,9.81,Salaried,Not Graduate,Semiurban,0,Y
+47,182908,75000,714,196976,300,9.42,Self-Employed,Graduate,Semiurban,0,Y
+30,144206,5000,648,5845213,240,11.08,Salaried,Graduate,Rural,3+,Y
+36,29341,10000,766,4582314,300,13.48,Salaried,Not Graduate,Urban,1,N
+37,156751,50000,659,688967,120,12.99,Salaried,Not Graduate,Urban,0,Y
+25,182497,0,790,4576643,60,8.07,Salaried,Not Graduate,Urban,1,N
+36,147228,20000,592,5690502,12,14.57,Self-Employed,Graduate,Rural,3+,N
+28,23448,35000,600,3774350,60,10.44,Salaried,Not Graduate,Urban,1,N
+41,118251,0,567,3294752,12,9.16,Salaried,Graduate,Urban,0,N
+60,123848,0,736,616494,240,11.85,Salaried,Graduate,Rural,0,Y
+54,18255,75000,631,2432386,240,10.05,Self-Employed,Graduate,Semiurban,2,Y
+32,171436,5000,636,1774598,300,12.96,Salaried,Graduate,Semiurban,0,Y
+47,42555,10000,749,1977333,300,13.1,Self-Employed,Graduate,Urban,0,Y
+61,82578,5000,803,4196853,120,13.9,Self-Employed,Graduate,Rural,0,N
+63,78403,0,641,1029817,120,13.4,Self-Employed,Not Graduate,Urban,0,N
+34,194262,0,778,290207,24,14.97,Salaried,Graduate,Urban,3+,Y
+34,208298,5000,725,5859844,120,8.86,Salaried,Graduate,Urban,2,Y
+23,170577,75000,689,3623631,300,11.44,Self-Employed,Graduate,Semiurban,0,Y
+55,85856,35000,612,5128666,84,10.43,Salaried,Not Graduate,Semiurban,3+,N
+34,145349,0,598,3907588,240,13.5,Salaried,Graduate,Rural,2,N
+37,147234,0,693,2179812,36,12.56,Salaried,Not Graduate,Semiurban,3+,N
+38,86803,20000,698,6919838,180,10.88,Salaried,Graduate,Urban,2,N
+25,65309,35000,644,5139512,180,12.71,Salaried,Graduate,Semiurban,0,N
+25,40337,0,625,6803833,180,10.78,Salaried,Not Graduate,Semiurban,1,N
+47,106890,20000,604,2953133,60,14.47,Salaried,Not Graduate,Rural,0,N
+40,135801,20000,712,4098190,180,10.63,Self-Employed,Graduate,Semiurban,2,Y
+35,162136,5000,733,199619,24,9.75,Self-Employed,Not Graduate,Urban,0,Y
+56,54461,50000,736,6373584,120,10.95,Self-Employed,Graduate,Semiurban,2,N
+30,145312,50000,729,2560210,60,10.47,Salaried,Graduate,Rural,3+,Y
+39,194880,0,654,4324520,120,10.85,Self-Employed,Graduate,Rural,3+,Y
+35,172256,0,793,154702,180,12.81,Salaried,Graduate,Urban,0,Y
+43,194870,5000,624,4008493,120,10.54,Salaried,Graduate,Semiurban,0,N
+26,177699,10000,726,4404089,12,11.02,Salaried,Graduate,Semiurban,2,N
+65,114962,10000,663,2742828,36,7.58,Self-Employed,Not Graduate,Rural,2,N
+34,218627,5000,617,2526648,360,13.09,Salaried,Not Graduate,Rural,1,N
+30,155501,0,647,5429772,360,14.72,Salaried,Graduate,Rural,2,N
+52,107798,10000,725,6339407,84,12.61,Self-Employed,Graduate,Urban,2,N
+45,163211,20000,760,1169093,12,13.97,Salaried,Graduate,Urban,0,N
+54,207691,50000,710,6525466,84,9.57,Self-Employed,Graduate,Rural,3+,Y
+65,83370,75000,499,1337557,180,14.29,Self-Employed,Graduate,Urban,0,N
+52,14621,0,737,3672587,84,7.7,Salaried,Not Graduate,Rural,0,N
+43,43941,50000,551,4583333,180,14.91,Salaried,Graduate,Rural,2,N
+35,163845,0,815,6008160,36,14.19,Self-Employed,Not Graduate,Rural,3+,N
+47,101179,10000,704,5228119,12,14.97,Salaried,Graduate,Rural,2,N
+62,18675,5000,699,6803082,84,9.85,Salaried,Graduate,Rural,3+,N
+45,116706,0,755,640202,240,7.29,Salaried,Not Graduate,Urban,2,Y
+45,200164,5000,671,5914760,60,13.21,Salaried,Graduate,Rural,0,N
+26,156189,0,673,6947663,60,8.06,Salaried,Graduate,Semiurban,1,N
+40,207129,5000,665,294161,60,12.99,Salaried,Graduate,Urban,0,Y
+53,154317,50000,698,5563551,240,10.01,Salaried,Not Graduate,Rural,2,Y
+57,25420,0,695,65643,180,8.19,Salaried,Graduate,Rural,0,Y
+62,23529,35000,704,1560911,36,9.53,Salaried,Not Graduate,Rural,1,N
+50,176987,10000,473,2565976,180,7.78,Salaried,Graduate,Urban,1,N
+62,203774,35000,683,5356209,360,10.97,Salaried,Not Graduate,Rural,0,Y
+23,123531,10000,586,4151448,84,9.24,Salaried,Graduate,Urban,1,N
+47,54665,10000,850,1148966,12,9.04,Self-Employed,Graduate,Rural,3+,N
+32,188052,0,741,3523499,300,7.03,Self-Employed,Not Graduate,Urban,0,Y
+36,60604,0,750,5482114,360,13.09,Self-Employed,Not Graduate,Urban,1,N
+63,174989,20000,720,1724471,120,13.34,Self-Employed,Graduate,Rural,0,Y
+51,30532,20000,733,2089396,36,11.42,Salaried,Graduate,Urban,1,N
+40,104104,10000,631,6086035,240,11.64,Self-Employed,Not Graduate,Urban,3+,N
+63,115182,10000,741,1429553,24,12.99,Unemployed,Graduate,Urban,0,N
+38,129994,0,745,2278765,120,14.75,Unemployed,Not Graduate,Semiurban,0,Y
+65,204268,0,701,2645692,12,13.66,Salaried,Graduate,Rural,0,N
+34,142778,50000,740,4375685,84,11.42,Salaried,Graduate,Urban,1,Y
+33,149832,5000,759,4103246,12,14.56,Salaried,Graduate,Urban,0,N
+49,183593,5000,691,3517950,240,12.3,Salaried,Not Graduate,Semiurban,1,Y
+63,114201,20000,617,4130358,36,9.89,Unemployed,Graduate,Rural,1,N
+24,161758,20000,743,5011826,120,12.66,Salaried,Graduate,Semiurban,0,Y
+53,190731,0,789,2494776,360,12.57,Salaried,Graduate,Rural,0,Y
+39,17106,10000,612,2791854,360,14.68,Unemployed,Graduate,Rural,1,N
+60,209510,0,766,5199131,300,11.16,Unemployed,Not Graduate,Urban,0,Y
+56,191940,10000,707,2489098,240,10.68,Salaried,Graduate,Rural,2,Y
+28,128712,0,730,3366130,120,7.13,Salaried,Not Graduate,Semiurban,1,Y
+51,145727,35000,745,994884,300,11.35,Salaried,Not Graduate,Urban,1,Y
+64,176943,35000,621,3101782,36,9.19,Salaried,Graduate,Urban,0,N
+27,140682,5000,709,6134594,180,13.25,Salaried,Not Graduate,Semiurban,3+,N
+54,216420,5000,757,4781659,60,14.24,Self-Employed,Graduate,Rural,3+,N
+25,147242,5000,783,6334524,180,14.11,Salaried,Graduate,Rural,2,Y
+28,18117,20000,747,5009029,240,7.72,Salaried,Graduate,Urban,0,N
+32,71627,0,629,4006766,60,11.97,Unemployed,Graduate,Rural,2,N
+45,133698,5000,703,6826248,240,12.3,Salaried,Not Graduate,Urban,0,N
+56,144271,35000,674,6475167,300,9.1,Self-Employed,Graduate,Rural,2,N
+26,155203,5000,694,502276,60,11.14,Salaried,Graduate,Rural,1,Y
+22,165158,10000,763,1080353,300,11.77,Salaried,Not Graduate,Rural,1,N
+53,125248,0,599,6737031,300,9.12,Salaried,Not Graduate,Semiurban,3+,N
+35,33101,50000,724,4033398,60,10.38,Salaried,Graduate,Semiurban,0,N
+47,75152,5000,719,1555301,300,13.75,Salaried,Graduate,Semiurban,1,Y
+40,125632,0,627,5942786,24,8.58,Self-Employed,Graduate,Rural,0,N
+47,67574,75000,764,898941,300,14.99,Salaried,Graduate,Semiurban,3+,Y
+35,111688,5000,652,4042530,12,12.14,Self-Employed,Graduate,Semiurban,3+,N
+59,196107,35000,693,4677787,12,14.98,Salaried,Not Graduate,Urban,0,N
+26,66956,20000,521,210670,24,11.41,Self-Employed,Graduate,Semiurban,2,N
+55,195194,35000,763,1732818,60,13.16,Self-Employed,Graduate,Urban,0,Y
+40,215028,5000,672,5232576,60,13.67,Self-Employed,Graduate,Urban,1,N
+25,40629,50000,670,4567025,24,9.4,Salaried,Graduate,Semiurban,2,N
+61,200761,75000,785,422316,24,14.29,Salaried,Graduate,Semiurban,2,Y
+55,166818,0,564,3175698,36,7.91,Salaried,Graduate,Urban,3+,N
+27,93270,75000,747,2938840,36,13.1,Unemployed,Graduate,Urban,1,N
+45,157412,50000,759,6810275,360,11.02,Self-Employed,Not Graduate,Rural,1,Y
+28,36886,0,560,4321361,180,14.55,Salaried,Graduate,Semiurban,1,N
+29,108080,50000,707,5397740,240,11.2,Salaried,Graduate,Urban,1,Y
+34,89387,0,665,1721480,24,12.92,Self-Employed,Graduate,Urban,3+,N
+36,94682,20000,621,3191111,180,9.92,Self-Employed,Graduate,Semiurban,2,Y
+65,182269,0,606,5198624,120,9.75,Salaried,Graduate,Urban,1,N
+43,79406,75000,738,4717181,240,12.65,Salaried,Graduate,Urban,1,Y
+39,132280,5000,767,1375944,300,8.84,Salaried,Graduate,Semiurban,0,Y
+59,161217,0,617,370633,180,9.34,Self-Employed,Graduate,Rural,1,N
+22,176269,75000,628,126227,24,11.32,Salaried,Graduate,Semiurban,3+,Y
+60,106114,0,744,3682413,60,13.18,Salaried,Graduate,Semiurban,2,N
+22,174626,75000,849,583637,12,12.1,Unemployed,Graduate,Rural,1,Y
+25,152973,75000,588,5740135,300,8.57,Salaried,Graduate,Semiurban,3+,N
+22,48544,0,594,2969269,180,14.28,Salaried,Graduate,Rural,1,N
+40,157381,5000,619,3558098,180,10.54,Salaried,Graduate,Semiurban,2,N
+65,87241,0,620,2072231,12,8.14,Salaried,Not Graduate,Semiurban,3+,N
+58,216089,75000,767,2980126,180,12.94,Self-Employed,Graduate,Rural,0,Y
+24,179671,0,622,2800264,240,13.11,Salaried,Graduate,Semiurban,2,Y
+48,154177,10000,838,1833186,360,7.36,Self-Employed,Graduate,Rural,1,Y
+63,156700,50000,721,6810018,180,13.37,Salaried,Not Graduate,Rural,3+,N
+59,28406,5000,758,3248600,60,10.58,Self-Employed,Graduate,Urban,3+,N
+33,182432,50000,732,4802027,12,9.52,Salaried,Graduate,Semiurban,3+,N
+47,58107,50000,622,5471639,300,12.21,Self-Employed,Graduate,Urban,0,N
+36,168944,5000,598,4813840,240,11.02,Salaried,Graduate,Urban,0,N
+31,134453,10000,753,5008968,36,12.61,Self-Employed,Not Graduate,Rural,2,N
+60,217059,5000,772,3424875,240,14.74,Self-Employed,Graduate,Semiurban,0,Y
+43,17175,0,719,980335,60,8.45,Salaried,Not Graduate,Urban,2,N
+42,149221,20000,691,1201551,120,9.13,Self-Employed,Graduate,Rural,0,Y
+44,106324,5000,697,2324621,36,12.96,Salaried,Graduate,Urban,1,N
+30,129516,35000,706,3260905,360,12.83,Salaried,Not Graduate,Semiurban,2,Y
+61,75656,0,601,2802154,180,8.01,Salaried,Not Graduate,Semiurban,3+,N
+47,153605,5000,695,6999938,24,9.5,Salaried,Graduate,Semiurban,0,N
+37,49218,75000,691,2882794,180,11.67,Salaried,Graduate,Rural,3+,Y
+47,41522,75000,572,5222740,300,14.28,Salaried,Graduate,Rural,1,N
+31,21487,50000,511,6737395,84,13.31,Self-Employed,Not Graduate,Semiurban,3+,N
+42,31600,20000,674,4500471,180,14.76,Salaried,Graduate,Semiurban,0,N
+54,15496,0,554,5678238,12,10.67,Salaried,Not Graduate,Semiurban,0,N
+58,84218,10000,533,5580893,12,13.41,Salaried,Graduate,Urban,0,N
+39,47338,5000,575,1863260,24,14.24,Salaried,Graduate,Rural,2,N
+53,153726,0,703,2202623,300,10.48,Self-Employed,Not Graduate,Semiurban,0,Y
+42,207197,50000,687,4510614,300,14.42,Salaried,Graduate,Urban,1,Y
+24,216535,10000,696,333339,120,10.03,Salaried,Not Graduate,Urban,2,Y
+64,80093,0,804,1702490,300,10.58,Salaried,Graduate,Urban,0,Y
+60,195583,0,725,3124912,36,9.12,Self-Employed,Graduate,Urban,0,N
+51,206971,0,794,4864308,24,7.63,Self-Employed,Not Graduate,Urban,0,N
+23,134982,20000,703,4158719,360,11.59,Salaried,Graduate,Rural,0,Y
+51,32426,0,762,5176204,12,13.53,Self-Employed,Not Graduate,Semiurban,0,N
+31,24157,0,796,2910573,180,13.78,Self-Employed,Not Graduate,Rural,3+,N
+63,137635,75000,824,636290,12,14.04,Salaried,Graduate,Rural,0,Y
+25,139057,0,676,3479627,84,7.71,Self-Employed,Graduate,Semiurban,0,N
+53,122030,10000,609,6179733,360,13.65,Self-Employed,Graduate,Rural,0,N
+38,133473,0,694,3672481,240,12.87,Salaried,Not Graduate,Rural,1,Y
+63,144036,0,781,5189957,60,14.16,Salaried,Graduate,Semiurban,1,N
+56,88192,35000,796,956789,120,7.9,Self-Employed,Graduate,Rural,0,Y
+49,188276,0,699,1868801,60,10.36,Salaried,Graduate,Urban,2,Y
+44,163167,35000,715,1889644,180,8.97,Salaried,Graduate,Rural,1,Y
+47,93097,0,797,1681591,84,7.85,Salaried,Graduate,Urban,3+,Y
+48,162630,20000,702,4034943,360,12.15,Salaried,Graduate,Semiurban,0,Y
+33,150388,20000,736,6428922,12,12.23,Self-Employed,Not Graduate,Semiurban,2,N
+45,73499,50000,753,4220956,360,13.68,Salaried,Graduate,Semiurban,0,Y
+31,55951,0,675,361516,84,14.83,Salaried,Graduate,Rural,1,Y
+33,73293,35000,633,6557275,24,9.43,Self-Employed,Graduate,Semiurban,2,N
+44,175444,20000,850,825042,84,7.91,Salaried,Graduate,Urban,0,Y
+49,43850,50000,651,289450,120,11.05,Self-Employed,Not Graduate,Semiurban,3+,N
+23,123168,75000,618,555180,120,14.79,Salaried,Graduate,Semiurban,1,Y
+65,211539,75000,673,6456983,60,14.66,Salaried,Graduate,Urban,0,N
+28,28718,20000,701,4633709,180,9.29,Salaried,Graduate,Semiurban,1,N
+45,125845,20000,710,1020033,84,9.14,Self-Employed,Graduate,Rural,0,N
+52,72941,0,668,6212744,60,11.04,Self-Employed,Graduate,Semiurban,2,N
+33,185674,0,724,5144247,12,13.8,Salaried,Graduate,Rural,0,N
+51,40042,0,806,6360239,180,13.38,Self-Employed,Graduate,Semiurban,3+,N
+43,136293,50000,668,3053669,24,9.31,Self-Employed,Graduate,Semiurban,2,N
+22,167003,0,693,2959138,12,10.3,Self-Employed,Not Graduate,Semiurban,3+,N
+60,39070,0,784,6955562,300,9.28,Salaried,Graduate,Semiurban,1,N
+28,95992,10000,622,1039878,24,14.91,Salaried,Not Graduate,Rural,3+,N
+26,41951,0,609,1458971,240,7.06,Salaried,Graduate,Rural,0,Y
+48,120857,0,643,2690366,360,9.88,Salaried,Graduate,Rural,0,N
+29,12507,0,682,397302,24,14.61,Salaried,Graduate,Urban,0,N
+39,138774,0,751,4405264,300,12.21,Salaried,Graduate,Urban,2,Y
+22,73994,0,579,3960113,240,8.13,Salaried,Graduate,Urban,0,N
+47,89538,50000,645,3193505,120,7.26,Salaried,Graduate,Semiurban,0,Y
+60,176114,20000,615,5264179,120,14.35,Salaried,Graduate,Semiurban,1,N
+26,217080,20000,583,3638129,84,12.25,Salaried,Graduate,Urban,0,Y
+46,113752,35000,603,5750699,300,14.64,Salaried,Not Graduate,Rural,0,N
+59,168618,35000,741,6789009,60,13.89,Salaried,Graduate,Rural,1,N
+30,92813,75000,697,6370852,60,8.26,Salaried,Not Graduate,Rural,2,N
+32,146888,5000,701,4028962,84,9.87,Unemployed,Graduate,Semiurban,0,Y
+41,93262,75000,732,4932940,60,11.88,Salaried,Not Graduate,Rural,2,N
+37,43626,0,720,2765214,84,9.42,Salaried,Graduate,Semiurban,1,N
+24,192435,10000,719,6963544,12,10.03,Salaried,Not Graduate,Semiurban,2,N
+41,89165,20000,819,1864015,36,14.65,Salaried,Not Graduate,Rural,1,N
+62,86555,20000,735,315266,36,12.53,Salaried,Graduate,Urban,2,Y
+47,90864,5000,505,2774578,36,14.3,Salaried,Graduate,Urban,0,N
+35,180423,10000,729,2514681,12,9.5,Self-Employed,Graduate,Urban,1,N
+65,158379,0,756,3674168,60,14.14,Salaried,Graduate,Rural,0,N
+24,48510,50000,724,803249,84,9.51,Salaried,Graduate,Urban,2,Y
+30,28925,50000,649,5983652,36,12.18,Salaried,Graduate,Urban,0,N
+65,141251,20000,620,5031125,36,12.61,Salaried,Graduate,Rural,2,N
+28,41111,75000,693,6567052,300,8.75,Self-Employed,Graduate,Rural,3+,N
+57,45652,5000,736,3357981,84,11.38,Salaried,Graduate,Rural,0,N
+27,177176,50000,749,1700618,120,14.59,Self-Employed,Graduate,Urban,0,Y
+31,162966,5000,565,3781623,24,13.1,Salaried,Not Graduate,Rural,2,N
+55,91531,75000,713,151011,240,8.96,Self-Employed,Not Graduate,Rural,0,N
+50,163608,75000,777,2048777,120,8.4,Salaried,Graduate,Rural,0,Y
+38,74277,20000,742,1619303,84,7.12,Self-Employed,Graduate,Rural,0,Y
+33,109097,75000,850,6163395,180,13.94,Salaried,Graduate,Rural,0,Y
+62,33850,0,643,1608415,180,7.96,Salaried,Graduate,Rural,2,N
+41,182829,5000,608,3333297,60,7.52,Unemployed,Graduate,Rural,2,N
+23,29597,50000,750,5634981,24,9.01,Self-Employed,Graduate,Semiurban,1,N
